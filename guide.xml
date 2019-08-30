@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TELECINE ACTION">
+    <display-name lang="pt">TELECINE ACTION</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TELECINE PIPOCA">
+    <display-name lang="pt">TELECINE PIPOCA</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TELECINE PREMIUM">
+    <display-name lang="pt">TELECINE PREMIUM</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TELECINE TOUCH">
+    <display-name lang="pt">TELECINE TOUCH</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TELECINE CULT">
+    <display-name lang="pt">TELECINE CULT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <programme start="20190830000500 -0300" stop="20190830015500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Os Mercenários</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830015500 -0300" stop="20190830041000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Laços de Sangue</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830041000 -0300" stop="20190830054000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Ciência Da Luxúria</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830054000 -0300" stop="20190830073000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">A Negociação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830073000 -0300" stop="20190830091000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Regresso do Mal</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830091000 -0300" stop="20190830105000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Atentado Em Paris</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830105000 -0300" stop="20190830130500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Branca De Neve E O Caçador</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830130500 -0300" stop="20190830161500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">King Kong (2005)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830161500 -0300" stop="20190830183000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Indiana Jones E A Última Cruzada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830183000 -0300" stop="20190830201500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Maverick: Caçada no Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830201500 -0300" stop="20190830220000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">O Grande Assalto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830220000 -0300" stop="20190830234000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Nerve</title>
+    <sub-title lang="pt">Um Jogo Sem Regras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830234000 -0300" stop="20190831015500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Velozes E Furiosos 6</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830012500 -0300" stop="20190830025500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Fala Sério, Mãe!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830025500 -0300" stop="20190830051500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">A Última Noite (2002)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830051500 -0300" stop="20190830071000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">O Despertar De Um Assassino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830071000 -0300" stop="20190830091000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">A Tempestade</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830091000 -0300" stop="20190830112000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">A Invenção De Hugo Cabret</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830112000 -0300" stop="20190830131500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Portal do Guerreiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830131500 -0300" stop="20190830145500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Caça Às Bruxas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830145500 -0300" stop="20190830170500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Triplo X</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830170500 -0300" stop="20190830184500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Medo Profundo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830184500 -0300" stop="20190830202000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Stephanie</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830202000 -0300" stop="20190830220000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">O Xerife Pistoleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830220000 -0300" stop="20190831004000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Transformers: O Último Cavaleiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830000000 -0300" stop="20190830014500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">A Escolha Perfeita 3</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830014500 -0300" stop="20190830035500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Deadpool 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830035500 -0300" stop="20190830062500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Kingsman: O Círculo Dourado</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830062500 -0300" stop="20190830081500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Um Novo Olhar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830081500 -0300" stop="20190830095000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Dia De Casamento 4</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830095000 -0300" stop="20190830115500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Chacrinha</title>
+    <sub-title lang="pt">O Velho Guerreiro</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830115500 -0300" stop="20190830141000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">A Lei da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830141000 -0300" stop="20190830160500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Amor em Little Italy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830160500 -0300" stop="20190830181000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Em Ritmo de Fuga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830181000 -0300" stop="20190830195000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Todas as Pequenas Coisas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830195000 -0300" stop="20190830220000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Tomb Raider: A Origem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830220000 -0300" stop="20190830234000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Invasão</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830234000 -0300" stop="20190831020000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Máquinas Mortais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830001000 -0300" stop="20190830015500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Streetdance</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830015500 -0300" stop="20190830033500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">A Ressurreição de Gavin Stone</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830033500 -0300" stop="20190830051500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Procura-se a Mulher Perfeita</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830051500 -0300" stop="20190830065000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Mundo Ordinário</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830065000 -0300" stop="20190830084500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Uma Questão De Fé</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830084500 -0300" stop="20190830102500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Uma Nova Chance Para Amar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830102500 -0300" stop="20190830120500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Protesto Silencioso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830120500 -0300" stop="20190830135500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Em Busca Da Terra Do Nunca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830135500 -0300" stop="20190830153000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Ginger &amp; Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830153000 -0300" stop="20190830172500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Hampstead: Nunca É Tarde Para Amar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830172500 -0300" stop="20190830195000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Armas Na Mesa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830195000 -0300" stop="20190830220000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Coração De Cowboy</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830220000 -0300" stop="20190830235000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Casa Comigo?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830235000 -0300" stop="20190831014000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Simplesmente Acontece</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830013500 -0300" stop="20190830033000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Jules E Jim</title>
+    <sub-title lang="pt">Uma Mulher Para Dois</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830033000 -0300" stop="20190830052500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Ninguém Está Olhando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830052500 -0300" stop="20190830071500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Afterimage</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830071500 -0300" stop="20190830090000 -0300" channel="TELECINE CULT">
+    <title lang="pt">O Amor em Fuga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830090000 -0300" stop="20190830103000 -0300" channel="TELECINE CULT">
+    <title lang="pt">A Noiva Do Deserto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830103000 -0300" stop="20190830122000 -0300" channel="TELECINE CULT">
+    <title lang="pt">O Sétimo Selo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830122000 -0300" stop="20190830161000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Os Dez Mandamentos (1956)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830161000 -0300" stop="20190830183000 -0300" channel="TELECINE CULT">
+    <title lang="pt">O Último Metrô</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830183000 -0300" stop="20190830201500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Benzinho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830201500 -0300" stop="20190830220000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Sessão Novos Clássicos: Clube dos Cinco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190830220000 -0300" stop="20190831001000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Sessão Novos Clássicos: Jogos de Guerra</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+</tv>

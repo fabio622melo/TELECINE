@@ -22,11 +22,13 @@
   </channel>
   <channel id="MEGAPIX">
     <display-name lang="pt">MEGAPIX</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <icon src="http://www.lineup.tv.br/canais/noticias16.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="FOX">
     <display-name lang="pt">FOX</display-name>
-    <url>http://www.netcombo.com.br</url>
+    <icon src="http://www.lineup.tv.br/canais/ae.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
   <channel id="CINEMAX">
     <display-name lang="pt">CINEMAX</display-name>

@@ -20,14 +20,6 @@
     <display-name lang="pt">TELECINE CULT</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="MEGAPIX">
-    <display-name lang="pt">MEGAPIX</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="FOX">
-    <display-name lang="pt">FOX</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
   <channel id="CINEMAX">
     <display-name lang="pt">CINEMAX</display-name>
     <url>http://www.netcombo.com.br</url>
@@ -68,33 +60,17 @@
     <display-name lang="pt">PREMIERE FC</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="PREMIERE 2">
-    <display-name lang="pt">PREMIERE FC 2</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="PREMIERE 3">
-    <display-name lang="pt">PREMIERE FC 3</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="PREMIERE 4">
-    <display-name lang="pt">PREMIERE FC 4</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="PREMIERE 5">
-    <display-name lang="pt">PREMIERE FC 5</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="PREMIERE 6">
-    <display-name lang="pt">PREMIERE FC 6</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
-  <channel id="FOXSPORTE">
-    <display-name lang="pt">FOXSPORTE</display-name>
-    <url>http://www.netcombo.com.br</url>
-  </channel>
   <channel id="ESPN EXTRA">
     <display-name lang="pt">ESPN EXTRA</display-name>
-    <url>http://www.tvmagazine.com.br</url>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="MEGAPIX">
+    <display-name lang="pt">MEGAPIX</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <programme start="20190831015500 -0300" stop="20190831032500 -0300" channel="TELECINE ACTION">
     <title lang="pt">Dominação</title>
@@ -1788,98 +1764,104 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831003700 -0300" stop="20190831023100 -0300" channel="TNT">
+  <programme start="20190831002600 -0300" stop="20190831021200 -0300" channel="TNT">
     <title lang="pt">Policial em Apuros 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831023100 -0300" stop="20190831043200 -0300" channel="TNT">
+  <programme start="20190831021200 -0300" stop="20190831040700 -0300" channel="TNT">
     <title lang="pt">Invasão Zumbi</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831043200 -0300" stop="20190831060000 -0300" channel="TNT">
+  <programme start="20190831040700 -0300" stop="20190831054900 -0300" channel="TNT">
     <title lang="pt">Entourage: Fama e Amizade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831060000 -0300" stop="20190831074500 -0300" channel="TNT">
-    <title lang="pt">Sombras da Noite</title>
+  <programme start="20190831054900 -0300" stop="20190831073000 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831074500 -0300" stop="20190831100000 -0300" channel="TNT">
+  <programme start="20190831073000 -0300" stop="20190831094500 -0300" channel="TNT">
     <title lang="pt">Caminhos da Floresta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831100000 -0300" stop="20190831103700 -0300" channel="TNT">
+  <programme start="20190831094500 -0300" stop="20190831102200 -0300" channel="TNT">
     <title lang="pt">De Olho Na Liga</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831103700 -0300" stop="20190831124000 -0300" channel="TNT">
+  <programme start="20190831102200 -0300" stop="20190831122600 -0300" channel="TNT">
     <title lang="pt">Os Incríveis</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831124000 -0300" stop="20190831140300 -0300" channel="TNT">
-    <title lang="pt">Jonah Hex</title>
-    <sub-title lang="pt">O Caçador de Recompensas</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831140300 -0300" stop="20190831155300 -0300" channel="TNT">
+  <programme start="20190831122600 -0300" stop="20190831142200 -0300" channel="TNT">
     <title lang="pt">Jumanji</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831155300 -0300" stop="20190831173600 -0300" channel="TNT">
+  <programme start="20190831142200 -0300" stop="20190831160600 -0300" channel="TNT">
     <title lang="pt">Gente Grande 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831173600 -0300" stop="20190831193000 -0300" channel="TNT">
+  <programme start="20190831160600 -0300" stop="20190831180000 -0300" channel="TNT">
     <title lang="pt">Policial em Apuros 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831193000 -0300" stop="20190831212200 -0300" channel="TNT">
-    <title lang="pt">Toy Story 3</title>
+  <programme start="20190831180000 -0300" stop="20190831190000 -0300" channel="TNT">
+    <title lang="pt">Pré-jogo Brasileirão 2019</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831212200 -0300" stop="20190831235000 -0300" channel="TNT">
-    <title lang="pt">Vingadores: Era de Ultron</title>
+  <programme start="20190831190000 -0300" stop="20190831210000 -0300" channel="TNT">
+    <title lang="pt">Athletico PR x Ceará</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831235000 -0300" stop="20190901015600 -0300" channel="TNT">
+  <programme start="20190831210000 -0300" stop="20190831223000 -0300" channel="TNT">
+    <title lang="pt">Último Lance</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831223000 -0300" stop="20190831233000 -0300" channel="TNT">
+    <title lang="pt">Tá Pago Com Leandro Hassum</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831233000 -0300" stop="20190901013500 -0300" channel="TNT">
     <title lang="pt">Invasão Zumbi</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901015600 -0300" stop="20190901034000 -0300" channel="TNT">
+  <programme start="20190901013500 -0300" stop="20190901032300 -0300" channel="TNT">
     <title lang="pt">Entourage: Fama e Amizade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901034000 -0300" stop="20190901052300 -0300" channel="TNT">
+  <programme start="20190901032300 -0300" stop="20190901052300 -0300" channel="TNT">
     <title lang="pt">Blitz</title>
     <star-rating>
       <value>1.0</value>
@@ -2861,6 +2843,722 @@
   <programme start="20190901230000 -0300" stop="20190902000000 -0300" channel="ESPN BRASIL">
     <title lang="pt">Sportscenter</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831003000 -0300" stop="20190831013000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ceará x Flamengo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831013000 -0300" stop="20190831023000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Avaí x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831023000 -0300" stop="20190831033000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Botafogo x Chapecoense</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831033000 -0300" stop="20190831043000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Goiás x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831043000 -0300" stop="20190831053000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Vasco x São Paulo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831053000 -0300" stop="20190831063000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Fortaleza</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831063000 -0300" stop="20190831073000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Ceará x Flamengo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831073000 -0300" stop="20190831083000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Avaí x Corinthians</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831083000 -0300" stop="20190831091500 -0300" channel="PREMIERE FC">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831091500 -0300" stop="20190831100000 -0300" channel="PREMIERE FC">
+    <title lang="pt">FPF EP. 31</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831100000 -0300" stop="20190831130000 -0300" channel="PREMIERE FC">
+    <title lang="pt">São Paulo x Grêmio</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831130000 -0300" stop="20190831140000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Goiás x Internacional</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831140000 -0300" stop="20190831150000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Santos x Fortaleza</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831150000 -0300" stop="20190831160000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831160000 -0300" stop="20190831161500 -0300" channel="PREMIERE FC">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831161500 -0300" stop="20190831164000 -0300" channel="PREMIERE FC">
+    <title lang="pt">TV Azulão EP. 16</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831164000 -0300" stop="20190831190000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Bahia x Csa AL</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831190000 -0300" stop="20190831200000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831200000 -0300" stop="20190831204000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831204000 -0300" stop="20190831230000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Internacional x Botafogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831230000 -0300" stop="20190901000000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Csa AL</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901000000 -0300" stop="20190901010000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901010000 -0300" stop="20190901020000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Botafogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901020000 -0300" stop="20190901030000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901030000 -0300" stop="20190901040000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Bahia x Csa AL</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901040000 -0300" stop="20190901050000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901050000 -0300" stop="20190901060000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Botafogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901060000 -0300" stop="20190901070000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901070000 -0300" stop="20190901080000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901080000 -0300" stop="20190901083000 -0300" channel="PREMIERE FC">
+    <title lang="pt">FPF EP. 31</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901083000 -0300" stop="20190901084500 -0300" channel="PREMIERE FC">
+    <title lang="pt">Sempre Estarei Contigo Ep. 55</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901084500 -0300" stop="20190901090000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Tv Leão</title>
+    <sub-title lang="pt">Ep. 05</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901090000 -0300" stop="20190901093000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Vozão TV Ep. 109</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901093000 -0300" stop="20190901094500 -0300" channel="PREMIERE FC">
+    <title lang="pt">Bento TV Ep. 14</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901094500 -0300" stop="20190901100000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901100000 -0300" stop="20190901101500 -0300" channel="PREMIERE FC">
+    <title lang="pt">TV Azulão EP. 16</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901101500 -0300" stop="20190901103000 -0300" channel="PREMIERE FC">
+    <title lang="pt">TV Goiás</title>
+    <sub-title lang="pt">Ep. 153</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901103000 -0300" stop="20190901113000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Botafogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901113000 -0300" stop="20190901123000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901123000 -0300" stop="20190901133000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901133000 -0300" stop="20190901140000 -0300" channel="PREMIERE FC">
+    <title lang="pt">TV Xavante</title>
+    <sub-title lang="pt">Ep. 07</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901140000 -0300" stop="20190901150000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Botafogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901150000 -0300" stop="20190901154000 -0300" channel="PREMIERE FC">
+    <title lang="pt">FPF EP. 31</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901154000 -0300" stop="20190901180000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Flamengo x Palmeiras</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901180000 -0300" stop="20190901184000 -0300" channel="PREMIERE FC">
+    <title lang="pt">FPF EP. 31</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901184000 -0300" stop="20190901210000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Corinthians x Atlético MG</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901210000 -0300" stop="20190901220000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901220000 -0300" stop="20190901230000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901230000 -0300" stop="20190902000000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético/MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831001000 -0300" stop="20190831012300 -0300" channel="FOX">
+    <title lang="pt">Programa da Maisa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831012300 -0300" stop="20190831025800 -0300" channel="FOX">
+    <title lang="pt">Querem Acabar Comigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831025800 -0300" stop="20190831042800 -0300" channel="FOX">
+    <title lang="pt">Uma Casa de Pernas pro Ar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831042800 -0300" stop="20190831061300 -0300" channel="FOX">
+    <title lang="pt">Quebrando o Banco</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831061300 -0300" stop="20190831063600 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831063600 -0300" stop="20190831070000 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831070000 -0300" stop="20190831072300 -0300" channel="FOX">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831072300 -0300" stop="20190831074700 -0300" channel="FOX">
+    <title lang="pt">Will &amp; Grace</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831074700 -0300" stop="20190831080000 -0300" channel="FOX">
+    <title lang="pt">Zoom In</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831080000 -0300" stop="20190831090000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831090000 -0300" stop="20190831100000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831100000 -0300" stop="20190831113800 -0300" channel="FOX">
+    <title lang="pt">Zoolander</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831113800 -0300" stop="20190831120200 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831120200 -0300" stop="20190831122900 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831122900 -0300" stop="20190831125600 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831125600 -0300" stop="20190831143900 -0300" channel="FOX">
+    <title lang="pt">Querem Acabar Comigo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831143900 -0300" stop="20190831161800 -0300" channel="FOX">
+    <title lang="pt">Uma Casa de Pernas pro Ar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831161800 -0300" stop="20190831181500 -0300" channel="FOX">
+    <title lang="pt">Jumanji</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831181500 -0300" stop="20190831200000 -0300" channel="FOX">
+    <title lang="pt">Gente Grande 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831200000 -0300" stop="20190831214500 -0300" channel="FOX">
+    <title lang="pt">Vovó...Zona</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831214500 -0300" stop="20190831233100 -0300" channel="FOX">
+    <title lang="pt">Vovó...Zona 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831233100 -0300" stop="20190901012400 -0300" channel="FOX">
+    <title lang="pt">Vovó... Zona 3: Tal Pai, Tal Filho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901012400 -0300" stop="20190901030900 -0300" channel="FOX">
+    <title lang="pt">A Intrometida</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901030900 -0300" stop="20190901045800 -0300" channel="FOX">
+    <title lang="pt">Rock em Cabul</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901045800 -0300" stop="20190901063300 -0300" channel="FOX">
+    <title lang="pt">Primeiro Domingo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901063300 -0300" stop="20190901070000 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901070000 -0300" stop="20190901085200 -0300" channel="FOX">
+    <title lang="pt">Rock em Cabul</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901085200 -0300" stop="20190901104000 -0300" channel="FOX">
+    <title lang="pt">O Amor Custa Caro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901104000 -0300" stop="20190901123200 -0300" channel="FOX">
+    <title lang="pt">Querido Companheiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901123200 -0300" stop="20190901125800 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901125800 -0300" stop="20190901132400 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901132400 -0300" stop="20190901135000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901135000 -0300" stop="20190901141600 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901141600 -0300" stop="20190901153100 -0300" channel="FOX">
+    <title lang="pt">Programa da Maisa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901153100 -0300" stop="20190901171900 -0300" channel="FOX">
+    <title lang="pt">Como se Fosse a Primeira Vez</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901171900 -0300" stop="20190901190200 -0300" channel="FOX">
+    <title lang="pt">Gente Grande 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901190200 -0300" stop="20190901210000 -0300" channel="FOX">
+    <title lang="pt">Esposa de Mentirinha</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901210000 -0300" stop="20190901224100 -0300" channel="FOX">
+    <title lang="pt">Quatro Vidas de um Cachorro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901224100 -0300" stop="20190902004200 -0300" channel="FOX">
+    <title lang="pt">Marley &amp; Eu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831002500 -0300" stop="20190831023500 -0300" channel="MEGAPIX">
+    <title lang="pt">De Emprego Novo: Intocáveis</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831023500 -0300" stop="20190831041500 -0300" channel="MEGAPIX">
+    <title lang="pt">Pânico Na Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831041500 -0300" stop="20190831063000 -0300" channel="MEGAPIX">
+    <title lang="pt">Divisão De Homicídios</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831063000 -0300" stop="20190831084000 -0300" channel="MEGAPIX">
+    <title lang="pt">Eu Os Declaro Marido E... Larry!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831084000 -0300" stop="20190831104500 -0300" channel="MEGAPIX">
+    <title lang="pt">Debi &amp; Lóide 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831104500 -0300" stop="20190831125500 -0300" channel="MEGAPIX">
+    <title lang="pt">A Bela e a Fera (2014)</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831125500 -0300" stop="20190831143500 -0300" channel="MEGAPIX">
+    <title lang="pt">Megakids.: Um Lobo em Pele de Cordeiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831143500 -0300" stop="20190831162500 -0300" channel="MEGAPIX">
+    <title lang="pt">A Creche Do Papai</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831162500 -0300" stop="20190831181500 -0300" channel="MEGAPIX">
+    <title lang="pt">Sessão Megateen: O Segredo da Cabana</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831181500 -0300" stop="20190831201000 -0300" channel="MEGAPIX">
+    <title lang="pt">Carga Explosiva</title>
+    <sub-title lang="pt">O Legado</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831201000 -0300" stop="20190831220000 -0300" channel="MEGAPIX">
+    <title lang="pt">Boyka: O Imbatível</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831220000 -0300" stop="20190831235000 -0300" channel="MEGAPIX">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190831235000 -0300" stop="20190901000000 -0300" channel="MEGAPIX">
+    <title lang="pt">O Justiceiro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901000000 -0300" stop="20190901020500 -0300" channel="MEGAPIX">
+    <title lang="pt">O Círculo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901020500 -0300" stop="20190901035500 -0300" channel="MEGAPIX">
+    <title lang="pt">Resident Evil 2: Apocalipse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901035500 -0300" stop="20190901055000 -0300" channel="MEGAPIX">
+    <title lang="pt">O Lobisomem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901055000 -0300" stop="20190901080000 -0300" channel="MEGAPIX">
+    <title lang="pt">Junior</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901080000 -0300" stop="20190901094000 -0300" channel="MEGAPIX">
+    <title lang="pt">Inverno Rigoroso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901094000 -0300" stop="20190901120000 -0300" channel="MEGAPIX">
+    <title lang="pt">Oblivion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901120000 -0300" stop="20190901140000 -0300" channel="MEGAPIX">
+    <title lang="pt">Sessão Retrô.: Jumanji</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901140000 -0300" stop="20190901153500 -0300" channel="MEGAPIX">
+    <title lang="pt">Virei Filme: Fala Sério, Mãe!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901153500 -0300" stop="20190901174500 -0300" channel="MEGAPIX">
+    <title lang="pt">Virei Filme: Como Eu Era Antes de Você</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901174500 -0300" stop="20190901195500 -0300" channel="MEGAPIX">
+    <title lang="pt">Virei Filme</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901195500 -0300" stop="20190901220000 -0300" channel="MEGAPIX">
+    <title lang="pt">Virei Filme: O Círculo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901220000 -0300" stop="20190902000500 -0300" channel="MEGAPIX">
+    <title lang="pt">Tropa De Elite 2</title>
+    <sub-title lang="pt">O Inimigo Agora É Outro</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>

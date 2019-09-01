@@ -88,80 +88,6 @@
     <display-name lang="pt">HBO SIGNATURE</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <programme start="20190831015500 -0300" stop="20190831032500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Dominação</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831032500 -0300" stop="20190831045500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Strike Sensual</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831045500 -0300" stop="20190831062500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Mulheres Perigosas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831062500 -0300" stop="20190831082000 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Braddock 3</title>
-    <sub-title lang="pt">O Resgate</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831082000 -0300" stop="20190831101000 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Faça A Sua Jogada</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831101000 -0300" stop="20190831115500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">O Último Golpe</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831115500 -0300" stop="20190831143000 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Transformers</title>
-    <sub-title lang="pt">A Vingança Dos Derrotados</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831143000 -0300" stop="20190831160500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Na Toca Do Tigre</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831160500 -0300" stop="20190831180500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Atrás das Linhas Inimigas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831180500 -0300" stop="20190831194500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Sequestro Relâmpago</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831194500 -0300" stop="20190831220000 -0300" channel="TELECINE ACTION">
-    <title lang="pt">O Grande Mestre (2013)</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831220000 -0300" stop="20190901000500 -0300" channel="TELECINE ACTION">
-    <title lang="pt">Sequestro Na Ilha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
   <programme start="20190901000500 -0300" stop="20190901015000 -0300" channel="TELECINE ACTION">
     <title lang="pt">Blitz</title>
     <star-rating>
@@ -244,75 +170,75 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831004000 -0300" stop="20190831023000 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">Vida</title>
+  <programme start="20190902012500 -0300" stop="20190902032000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Jogos Mortais 3</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831023000 -0300" stop="20190831041000 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">Pedido de Amizade</title>
+  <programme start="20190902032000 -0300" stop="20190902050000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Contagem Regressiva (2016)</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831041000 -0300" stop="20190831062000 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">Sin City</title>
-    <sub-title lang="pt">A Cidade Do Pecado</sub-title>
+  <programme start="20190902050000 -0300" stop="20190902071000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Esquadrão Red Tails</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831062000 -0300" stop="20190831084500 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">O Amor Não Tira Férias</title>
+  <programme start="20190902071000 -0300" stop="20190902092500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Sob o Domínio do Mal (2004)</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831084500 -0300" stop="20190831101500 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">Minha Família Já Te Ama!</title>
+  <programme start="20190902092500 -0300" stop="20190902113000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">A Série Divergente: Convergente</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831101500 -0300" stop="20190831120500 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">Um Amor Para Recordar</title>
+  <programme start="20190902113000 -0300" stop="20190902132000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Jogo Sujo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831120500 -0300" stop="20190831135500 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">Todo Dia</title>
+  <programme start="20190902132000 -0300" stop="20190902150000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Antes de Dormir</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831135500 -0300" stop="20190831154000 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">Minha Mãe é Uma Peça 2</title>
+  <programme start="20190902150000 -0300" stop="20190902163500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Bruxa De Blair (2016)</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831154000 -0300" stop="20190831174000 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">Sansão</title>
+  <programme start="20190902163500 -0300" stop="20190902183500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Sequestro Na Ilha</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831174000 -0300" stop="20190831194000 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">A Múmia (2017)</title>
+  <programme start="20190902183500 -0300" stop="20190902201000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Herança De Sangue</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831194000 -0300" stop="20190831220000 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+  <programme start="20190902201000 -0300" stop="20190902220000 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Legalize Já</title>
+    <sub-title lang="pt">Amizade Nunca Morre</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831220000 -0300" stop="20190901000000 -0300" channel="TELECINE PIPOCA">
-    <title lang="pt">O Predador (2018)</title>
+  <programme start="20190902220000 -0300" stop="20190903000500 -0300" channel="TELECINE ACTION">
+    <title lang="pt">Boneco De Neve</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -397,75 +323,75 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831020000 -0300" stop="20190831043000 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">All Eyez On Me: A História de Tupac</title>
+  <programme start="20190902003500 -0300" stop="20190902031500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Star Wars: Os Últimos Jedi</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831043000 -0300" stop="20190831061000 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">O Peso da Culpa</title>
+  <programme start="20190902031500 -0300" stop="20190902052500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Eu, Tonya</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831061000 -0300" stop="20190831075000 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">Doces Ou Travessuras</title>
+  <programme start="20190902052500 -0300" stop="20190902074000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">O Destino de Uma Nação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831075000 -0300" stop="20190831093000 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">Era Uma Vez Um Príncipe</title>
+  <programme start="20190902074000 -0300" stop="20190902094000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Polícia Federal</title>
+    <sub-title lang="pt">a Lei é Para Todos</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831093000 -0300" stop="20190831112500 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">Amor em Little Italy</title>
+  <programme start="20190902094000 -0300" stop="20190902114500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">A Identidade Bourne</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831112500 -0300" stop="20190831131000 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">Paris Pode Esperar</title>
+  <programme start="20190902114500 -0300" stop="20190902132500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Carga Mortal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831131000 -0300" stop="20190831144500 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">O Grinch (2018)</title>
+  <programme start="20190902132500 -0300" stop="20190902154000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831144500 -0300" stop="20190831163500 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">A Escolha Perfeita 3</title>
+  <programme start="20190902154000 -0300" stop="20190902172000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">O Xerife Pistoleiro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831163500 -0300" stop="20190831183000 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">No Olho do Furacão</title>
+  <programme start="20190902172000 -0300" stop="20190902192000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">O Predador (2018)</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831183000 -0300" stop="20190831201500 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">Johnny English 3.0</title>
+  <programme start="20190902192000 -0300" stop="20190902220000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Transformers: O Último Cavaleiro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831201500 -0300" stop="20190831220000 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">Sai de Baixo</title>
-    <sub-title lang="pt">o Filme</sub-title>
+  <programme start="20190902220000 -0300" stop="20190902235500 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Círculo De Fogo: A Revolta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831220000 -0300" stop="20190901002500 -0300" channel="TELECINE PREMIUM">
-    <title lang="pt">Bohemian Rhapsody</title>
+  <programme start="20190902235500 -0300" stop="20190903015000 -0300" channel="TELECINE PIPOCA">
+    <title lang="pt">Operação Overlord</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -542,75 +468,87 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831014000 -0300" stop="20190831033000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Marido e Mulher</title>
+  <programme start="20190902002000 -0300" stop="20190902022000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Feito Na América</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831033000 -0300" stop="20190831051000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">O Benfeitor</title>
+  <programme start="20190902022000 -0300" stop="20190902035500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Guerreiros Do Futuro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831051000 -0300" stop="20190831070000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Legião De Dançarinos Extraordinários 2</title>
+  <programme start="20190902035500 -0300" stop="20190902054500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Sobrevivendo Ao Meu Pai</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831070000 -0300" stop="20190831084000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Hope Springs</title>
-    <sub-title lang="pt">Um Lugar Para Sonhar</sub-title>
+  <programme start="20190902054500 -0300" stop="20190902072000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Deserto</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831084000 -0300" stop="20190831101500 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Uma Prova De Fé</title>
+  <programme start="20190902072000 -0300" stop="20190902090000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Espectador Profissional</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831101500 -0300" stop="20190831124500 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Prenda-me Se For Capaz</title>
+  <programme start="20190902090000 -0300" stop="20190902103500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Todas as Pequenas Coisas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831124500 -0300" stop="20190831150000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">O Homem Da Máscara De Ferro</title>
+  <programme start="20190902103500 -0300" stop="20190902123000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">O Homem Que Inventou O Natal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831150000 -0300" stop="20190831182000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Titanic</title>
+  <programme start="20190902123000 -0300" stop="20190902142000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">A Esposa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831182000 -0300" stop="20190831200500 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Fallen</title>
+  <programme start="20190902142000 -0300" stop="20190902160000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Sai de Baixo</title>
+    <sub-title lang="pt">o Filme</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831200500 -0300" stop="20190831220000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Ela Dança, Eu Danço 4</title>
+  <programme start="20190902160000 -0300" stop="20190902174500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Largadas Em Família</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831220000 -0300" stop="20190831234000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Sempre ao Seu Lado</title>
+  <programme start="20190902174500 -0300" stop="20190902193500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">O Nome Da Morte</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831234000 -0300" stop="20190901012000 -0300" channel="TELECINE TOUCH">
-    <title lang="pt">Escrito nas Estrelas</title>
+  <programme start="20190902193500 -0300" stop="20190902220000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">Bohemian Rhapsody</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902234000 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">O Retorno do Herói</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902234000 -0300" stop="20190903011500 -0300" channel="TELECINE PREMIUM">
+    <title lang="pt">211: O Grande Assalto</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -687,77 +625,80 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831001000 -0300" stop="20190831024500 -0300" channel="TELECINE CULT">
-    <title lang="pt">The Square</title>
-    <sub-title lang="pt">A Arte da Discórdia</sub-title>
+  <programme start="20190902000000 -0300" stop="20190902025000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">O Paciente Inglês</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831024500 -0300" stop="20190831044000 -0300" channel="TELECINE CULT">
-    <title lang="pt">Reino de Deus</title>
+  <programme start="20190902025000 -0300" stop="20190902044000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">A Face De Um Anjo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831044000 -0300" stop="20190831064500 -0300" channel="TELECINE CULT">
-    <title lang="pt">No Topo Do Poder</title>
+  <programme start="20190902044000 -0300" stop="20190902064000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Max: O Cão Herói</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831064500 -0300" stop="20190831084500 -0300" channel="TELECINE CULT">
-    <title lang="pt">Uma Jornada Para Toda a Vida</title>
+  <programme start="20190902064000 -0300" stop="20190902084500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Quase Lendas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831084500 -0300" stop="20190831104000 -0300" channel="TELECINE CULT">
-    <title lang="pt">Jules E Jim</title>
-    <sub-title lang="pt">Uma Mulher Para Dois</sub-title>
+  <programme start="20190902084500 -0300" stop="20190902104500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Ma Ma</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831104000 -0300" stop="20190831122000 -0300" channel="TELECINE CULT">
-    <title lang="pt">Ligas Encarnadas</title>
+  <programme start="20190902104500 -0300" stop="20190902125000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Madame Bovary</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831122000 -0300" stop="20190831142000 -0300" channel="TELECINE CULT">
-    <title lang="pt">Crepúsculo dos Deuses</title>
+  <programme start="20190902125000 -0300" stop="20190902150000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Chocolate (2016)</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831142000 -0300" stop="20190831155500 -0300" channel="TELECINE CULT">
-    <title lang="pt">Sonhos de Um Sedutor</title>
+  <programme start="20190902150000 -0300" stop="20190902164500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Em Busca de Vingança</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831155500 -0300" stop="20190831175500 -0300" channel="TELECINE CULT">
-    <title lang="pt">Blow-Up</title>
-    <sub-title lang="pt">Depois Daquele Beijo</sub-title>
+  <programme start="20190902164500 -0300" stop="20190902183000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Desejo Fatal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831175500 -0300" stop="20190831194000 -0300" channel="TELECINE CULT">
-    <title lang="pt">Duelo De Titãs (1959)</title>
+  <programme start="20190902183000 -0300" stop="20190902201500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">O Herói</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831194000 -0300" stop="20190831220000 -0300" channel="TELECINE CULT">
-    <title lang="pt">O Grande Ditador</title>
+  <programme start="20190902201500 -0300" stop="20190902220000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Casamento De Verdade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831220000 -0300" stop="20190901005000 -0300" channel="TELECINE CULT">
-    <title lang="pt">A Casa Que Jack Construiu</title>
+  <programme start="20190902220000 -0300" stop="20190902235500 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Encontro De Amor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902235500 -0300" stop="20190903014000 -0300" channel="TELECINE TOUCH">
+    <title lang="pt">Pássaros Amarelos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -835,74 +776,86 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831013500 -0300" stop="20190831032600 -0300" channel="CINEMAX">
-    <title lang="pt">O Último Matador</title>
+  <programme start="20190902001500 -0300" stop="20190902020000 -0300" channel="TELECINE CULT">
+    <title lang="pt">O Terror das Mulheres</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831032600 -0300" stop="20190831050300 -0300" channel="CINEMAX">
-    <title lang="pt">A Princesa Encantada</title>
+  <programme start="20190902020000 -0300" stop="20190902040000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Sorte no Amor</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831050300 -0300" stop="20190831065100 -0300" channel="CINEMAX">
-    <title lang="pt">Sete Dias com Marilyn</title>
+  <programme start="20190902040000 -0300" stop="20190902054500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Zoom</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831065100 -0300" stop="20190831082400 -0300" channel="CINEMAX">
-    <title lang="pt">Pequenos Espiões 4</title>
+  <programme start="20190902054500 -0300" stop="20190902073500 -0300" channel="TELECINE CULT">
+    <title lang="pt">A Montanha Enfeitiçada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831082400 -0300" stop="20190831101200 -0300" channel="CINEMAX">
-    <title lang="pt">Caçadora de Gigantes</title>
+  <programme start="20190902073500 -0300" stop="20190902092000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Mulheres Que Sabem Seduzir</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831101200 -0300" stop="20190831115100 -0300" channel="CINEMAX">
-    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+  <programme start="20190902092000 -0300" stop="20190902110000 -0300" channel="TELECINE CULT">
+    <title lang="pt">O Signo Do Zorro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831115100 -0300" stop="20190831134900 -0300" channel="CINEMAX">
-    <title lang="pt">Alguém Tem Que Ceder</title>
+  <programme start="20190902110000 -0300" stop="20190902124000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Lucky</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831134900 -0300" stop="20190831174100 -0300" channel="CINEMAX">
-    <title lang="pt">Inseparáveis</title>
+  <programme start="20190902124000 -0300" stop="20190902140000 -0300" channel="TELECINE CULT">
+    <title lang="pt">O Batedor De Carteiras</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831174100 -0300" stop="20190831193300 -0300" channel="CINEMAX">
-    <title lang="pt">Horas de Desespero</title>
+  <programme start="20190902140000 -0300" stop="20190902155500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Crown, O Magnífico</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831193300 -0300" stop="20190831220000 -0300" channel="CINEMAX">
-    <title lang="pt">Força Policial</title>
+  <programme start="20190902155500 -0300" stop="20190902180000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Tubarão 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831220000 -0300" stop="20190831234300 -0300" channel="CINEMAX">
-    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+  <programme start="20190902180000 -0300" stop="20190902195000 -0300" channel="TELECINE CULT">
+    <title lang="pt">As Minas Do Rei Salomão</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831234300 -0300" stop="20190901015900 -0300" channel="CINEMAX">
-    <title lang="pt">22 Balas</title>
+  <programme start="20190902195000 -0300" stop="20190902220000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Sessão Bang Bang: Os Filhos de Katie Elder</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902234500 -0300" channel="TELECINE CULT">
+    <title lang="pt">Sessão Bang Bang: Trágica Emboscada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902234500 -0300" stop="20190903013000 -0300" channel="TELECINE CULT">
+    <title lang="pt">Sessão Bang Bang: Ambição Acima da Lei</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -986,116 +939,87 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831010000 -0300" stop="20190831020000 -0300" channel="SONY">
-    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+  <programme start="20190902013500 -0300" stop="20190902032500 -0300" channel="CINEMAX">
+    <title lang="pt">Dominação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831020000 -0300" stop="20190831023000 -0300" channel="SONY">
-    <title lang="pt">American Housewife</title>
+  <programme start="20190902032500 -0300" stop="20190902045900 -0300" channel="CINEMAX">
+    <title lang="pt">Comportamento Suspeito</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831023000 -0300" stop="20190831030000 -0300" channel="SONY">
-    <title lang="pt">American Housewife</title>
+  <programme start="20190902045900 -0300" stop="20190902062500 -0300" channel="CINEMAX">
+    <title lang="pt">9</title>
+    <sub-title lang="pt">A Salvação</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831030000 -0300" stop="20190831033000 -0300" channel="SONY">
-    <title lang="pt">How I Met Your Mother</title>
+  <programme start="20190902062500 -0300" stop="20190902080100 -0300" channel="CINEMAX">
+    <title lang="pt">Norm e os Invencíveis</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831033000 -0300" stop="20190831040000 -0300" channel="SONY">
-    <title lang="pt">How I Met Your Mother</title>
+  <programme start="20190902080100 -0300" stop="20190902101600 -0300" channel="CINEMAX">
+    <title lang="pt">Preto ou Branco</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831040000 -0300" stop="20190831050000 -0300" channel="SONY">
-    <title lang="pt">Shark Tank</title>
+  <programme start="20190902101600 -0300" stop="20190902115000 -0300" channel="CINEMAX">
+    <title lang="pt">Não Sei Como Ela Consegue</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831050000 -0300" stop="20190831060000 -0300" channel="SONY">
-    <title lang="pt">Shark Tank</title>
+  <programme start="20190902115000 -0300" stop="20190902135500 -0300" channel="CINEMAX">
+    <title lang="pt">O Jogo da Imitação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831060000 -0300" stop="20190831063000 -0300" channel="SONY">
-    <title lang="pt">Chefs em Ação</title>
+  <programme start="20190902135500 -0300" stop="20190902154200 -0300" channel="CINEMAX">
+    <title lang="pt">Boneco do Mal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831063000 -0300" stop="20190831070000 -0300" channel="SONY">
-    <title lang="pt">Chefs em Ação</title>
+  <programme start="20190902154200 -0300" stop="20190902180000 -0300" channel="CINEMAX">
+    <title lang="pt">Conexão Escobar</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831070000 -0300" stop="20190831073000 -0300" channel="SONY">
-    <title lang="pt">American Housewife</title>
+  <programme start="20190902180000 -0300" stop="20190902183900 -0300" channel="CINEMAX">
+    <title lang="pt">Clubversão</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831073000 -0300" stop="20190831080000 -0300" channel="SONY">
-    <title lang="pt">American Housewife</title>
+  <programme start="20190902183900 -0300" stop="20190902195000 -0300" channel="CINEMAX">
+    <title lang="pt">Dia Um</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831080000 -0300" stop="20190831094500 -0300" channel="SONY">
-    <title lang="pt">O Bicho Vai Pegar</title>
+  <programme start="20190902195000 -0300" stop="20190902202800 -0300" channel="CINEMAX">
+    <title lang="pt">Clubversão</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831094500 -0300" stop="20190831113000 -0300" channel="SONY">
-    <title lang="pt">O Bicho Vai Pegar 2</title>
+  <programme start="20190902202800 -0300" stop="20190902221900 -0300" channel="CINEMAX">
+    <title lang="pt">Boneco do Mal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831113000 -0300" stop="20190831134500 -0300" channel="SONY">
-    <title lang="pt">Esposa de Mentirinha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831134500 -0300" stop="20190831160000 -0300" channel="SONY">
-    <title lang="pt">Só Você</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831160000 -0300" stop="20190831180000 -0300" channel="SONY">
-    <title lang="pt">28 Dias</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831180000 -0300" stop="20190831204500 -0300" channel="SONY">
-    <title lang="pt">Comer, Rezar, Amar</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831204500 -0300" stop="20190831224500 -0300" channel="SONY">
-    <title lang="pt">Sex Tape: Perdido na Nuvem</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831224500 -0300" stop="20190901004500 -0300" channel="SONY">
-    <title lang="pt">Maldita Sorte</title>
+  <programme start="20190902221900 -0300" stop="20190903000600 -0300" channel="CINEMAX">
+    <title lang="pt">Nunca Diga Seu Nome</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -1172,158 +1096,170 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831004500 -0300" stop="20190831014000 -0300" channel="AXN">
-    <title lang="pt">NCIS: Los Angeles</title>
+  <programme start="20190902000500 -0300" stop="20190902015500 -0300" channel="SONY">
+    <title lang="pt">(Des)Encontro Perfeito</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831014000 -0300" stop="20190831023500 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902015500 -0300" stop="20190902041000 -0300" channel="SONY">
+    <title lang="pt">Terapia do Sexo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831023500 -0300" stop="20190831033000 -0300" channel="AXN">
-    <title lang="pt">NCIS: Los Angeles</title>
+  <programme start="20190902041000 -0300" stop="20190902060000 -0300" channel="SONY">
+    <title lang="pt">(Des)Encontro Perfeito</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831033000 -0300" stop="20190831042000 -0300" channel="AXN">
-    <title lang="pt">NCIS: Los Angeles</title>
+  <programme start="20190902060000 -0300" stop="20190902063000 -0300" channel="SONY">
+    <title lang="pt">Chefs em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831042000 -0300" stop="20190831051500 -0300" channel="AXN">
-    <title lang="pt">NCIS: Los Angeles</title>
+  <programme start="20190902063000 -0300" stop="20190902070000 -0300" channel="SONY">
+    <title lang="pt">Chefs em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831051500 -0300" stop="20190831060000 -0300" channel="AXN">
-    <title lang="pt">NCIS: Los Angeles</title>
+  <programme start="20190902070000 -0300" stop="20190902073000 -0300" channel="SONY">
+    <title lang="pt">How I Met Your Mother</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831060000 -0300" stop="20190831070000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902073000 -0300" stop="20190902075500 -0300" channel="SONY">
+    <title lang="pt">How I Met Your Mother</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831070000 -0300" stop="20190831080000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902075500 -0300" stop="20190902082000 -0300" channel="SONY">
+    <title lang="pt">American Housewife</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831080000 -0300" stop="20190831090000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902082000 -0300" stop="20190902085000 -0300" channel="SONY">
+    <title lang="pt">American Housewife</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831090000 -0300" stop="20190831100000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902085000 -0300" stop="20190902094500 -0300" channel="SONY">
+    <title lang="pt">Grey's Anatomy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831100000 -0300" stop="20190831110000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902094500 -0300" stop="20190902104000 -0300" channel="SONY">
+    <title lang="pt">Grey's Anatomy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831110000 -0300" stop="20190831115500 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902104000 -0300" stop="20190902113500 -0300" channel="SONY">
+    <title lang="pt">Grey's Anatomy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831115500 -0300" stop="20190831125000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902113500 -0300" stop="20190902123000 -0300" channel="SONY">
+    <title lang="pt">Grey's Anatomy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831125000 -0300" stop="20190831134500 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902123000 -0300" stop="20190902132500 -0300" channel="SONY">
+    <title lang="pt">Station 19</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831134500 -0300" stop="20190831144000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902132500 -0300" stop="20190902142000 -0300" channel="SONY">
+    <title lang="pt">Station 19</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831144000 -0300" stop="20190831153500 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902142000 -0300" stop="20190902151500 -0300" channel="SONY">
+    <title lang="pt">Shark Tank</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831153500 -0300" stop="20190831163000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902151500 -0300" stop="20190902161000 -0300" channel="SONY">
+    <title lang="pt">Shark Tank</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831163000 -0300" stop="20190831172500 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902161000 -0300" stop="20190902164000 -0300" channel="SONY">
+    <title lang="pt">American Housewife</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831172500 -0300" stop="20190831182000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902164000 -0300" stop="20190902170500 -0300" channel="SONY">
+    <title lang="pt">American Housewife</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831182000 -0300" stop="20190831191500 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902170500 -0300" stop="20190902173500 -0300" channel="SONY">
+    <title lang="pt">How I Met Your Mother</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831191500 -0300" stop="20190831201000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902173500 -0300" stop="20190902180000 -0300" channel="SONY">
+    <title lang="pt">How I Met Your Mother</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831201000 -0300" stop="20190831210500 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902180000 -0300" stop="20190902183000 -0300" channel="SONY">
+    <title lang="pt">Chefs em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831210500 -0300" stop="20190831220000 -0300" channel="AXN">
-    <title lang="pt">Criminal Minds</title>
+  <programme start="20190902183000 -0300" stop="20190902190000 -0300" channel="SONY">
+    <title lang="pt">Chefs em Ação</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831220000 -0300" stop="20190831225500 -0300" channel="AXN">
-    <title lang="pt">C.S.I. Miami</title>
+  <programme start="20190902190000 -0300" stop="20190902210000 -0300" channel="SONY">
+    <title lang="pt">Gente Grande 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831225500 -0300" stop="20190831235000 -0300" channel="AXN">
-    <title lang="pt">Hawaii Five-0</title>
+  <programme start="20190902210000 -0300" stop="20190902215000 -0300" channel="SONY">
+    <title lang="pt">The Good Doctor</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831235000 -0300" stop="20190901004500 -0300" channel="AXN">
-    <title lang="pt">C.S.I. Miami</title>
+  <programme start="20190902215000 -0300" stop="20190902224000 -0300" channel="SONY">
+    <title lang="pt">The Good Doctor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902224000 -0300" stop="20190902233500 -0300" channel="SONY">
+    <title lang="pt">The Good Doctor</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902233500 -0300" stop="20190903003000 -0300" channel="SONY">
+    <title lang="pt">The Good Doctor</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -1496,122 +1432,164 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831014000 -0300" stop="20190831035500 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Maratona Kleber Mendonça Filho: O Som ao Redor</title>
+  <programme start="20190902000000 -0300" stop="20190902005500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831035500 -0300" stop="20190831041200 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Maratona Kleber Mendonça Filho: Vinil Verde</title>
+  <programme start="20190902005500 -0300" stop="20190902014500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831041200 -0300" stop="20190831043500 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Maratona Kleber Mendonça Filho: Eletrodoméstica</title>
+  <programme start="20190902014500 -0300" stop="20190902023500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831043500 -0300" stop="20190831045100 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Maratona Kleber Mendonça Filho: Noite de Sexta, Manhã de Sábado</title>
+  <programme start="20190902023500 -0300" stop="20190902033000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831045100 -0300" stop="20190831052000 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Maratona Kleber Mendonça Filho: Recife Frio</title>
+  <programme start="20190902033000 -0300" stop="20190902042000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831052000 -0300" stop="20190831054000 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Pornolândia</title>
+  <programme start="20190902042000 -0300" stop="20190902051500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831054000 -0300" stop="20190831070000 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Os Transgressores</title>
+  <programme start="20190902051500 -0300" stop="20190902060000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831070000 -0300" stop="20190831073000 -0300" channel="CANAL BRASIL">
-    <title lang="pt">O Som do Vinil</title>
+  <programme start="20190902060000 -0300" stop="20190902070000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831073000 -0300" stop="20190831085000 -0300" channel="CANAL BRASIL">
-    <title lang="pt">A Esperança é a Última que Morre</title>
+  <programme start="20190902070000 -0300" stop="20190902080000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831085000 -0300" stop="20190831102500 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Irmã Dulce</title>
+  <programme start="20190902080000 -0300" stop="20190902090000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831102500 -0300" stop="20190831114500 -0300" channel="CANAL BRASIL">
-    <title lang="pt">In-edit Brasil: Meu Tio e o Joelho de Porco</title>
+  <programme start="20190902090000 -0300" stop="20190902100000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831114500 -0300" stop="20190831132500 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Mulheres no Poder</title>
+  <programme start="20190902100000 -0300" stop="20190902110000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831132500 -0300" stop="20190831145500 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Os Normais</title>
+  <programme start="20190902110000 -0300" stop="20190902115500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831145500 -0300" stop="20190831164000 -0300" channel="CANAL BRASIL">
-    <title lang="pt">O Shaolin do Sertão</title>
+  <programme start="20190902115500 -0300" stop="20190902125000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Nova Orleans</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831164000 -0300" stop="20190831165000 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Cinejornal</title>
+  <programme start="20190902125000 -0300" stop="20190902134500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831165000 -0300" stop="20190831190000 -0300" channel="CANAL BRASIL">
-    <title lang="pt">O Homem que Copiava</title>
+  <programme start="20190902134500 -0300" stop="20190902144000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831190000 -0300" stop="20190831205500 -0300" channel="CANAL BRASIL">
-    <title lang="pt">O Segredo de Davi</title>
+  <programme start="20190902144000 -0300" stop="20190902153500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831205500 -0300" stop="20190831223000 -0300" channel="CANAL BRASIL">
-    <title lang="pt">A Sombra do Pai</title>
+  <programme start="20190902153500 -0300" stop="20190902163000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831223000 -0300" stop="20190831224500 -0300" channel="CANAL BRASIL">
-    <title lang="pt">Curta na Tela: Aqueles Cinco Segundos</title>
+  <programme start="20190902163000 -0300" stop="20190902172500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831224500 -0300" stop="20190901002500 -0300" channel="CANAL BRASIL">
-    <title lang="pt">O Animal Cordial</title>
+  <programme start="20190902172500 -0300" stop="20190902182000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902182000 -0300" stop="20190902191500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902191500 -0300" stop="20190902201000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902201000 -0300" stop="20190902210500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902210500 -0300" stop="20190902220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902225500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902225500 -0300" stop="20190902235000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902235000 -0300" stop="20190903004500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -1780,93 +1758,134 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831002600 -0300" stop="20190831021200 -0300" channel="TNT">
-    <title lang="pt">Policial em Apuros 2</title>
+  <programme start="20190902000500 -0300" stop="20190902020000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Deus é Brasileiro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831021200 -0300" stop="20190831040700 -0300" channel="TNT">
-    <title lang="pt">Invasão Zumbi</title>
+  <programme start="20190902020000 -0300" stop="20190902040000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Árido Movie</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831040700 -0300" stop="20190831054900 -0300" channel="TNT">
-    <title lang="pt">Entourage: Fama e Amizade</title>
+  <programme start="20190902040000 -0300" stop="20190902054500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Profissão: Mulher</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831054900 -0300" stop="20190831073000 -0300" channel="TNT">
-    <title lang="pt">Hollywood One on One</title>
+  <programme start="20190902054500 -0300" stop="20190902070000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Zé de Julião, Muito Além do Cangaço</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831073000 -0300" stop="20190831094500 -0300" channel="TNT">
-    <title lang="pt">Caminhos da Floresta</title>
+  <programme start="20190902070000 -0300" stop="20190902084500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Um Candango na Belacap</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831094500 -0300" stop="20190831102200 -0300" channel="TNT">
-    <title lang="pt">De Olho Na Liga</title>
+  <programme start="20190902084500 -0300" stop="20190902101000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Olhar de Nise</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831102200 -0300" stop="20190831122600 -0300" channel="TNT">
-    <title lang="pt">Os Incríveis</title>
+  <programme start="20190902101000 -0300" stop="20190902114000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Rondon, O Desbravador</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831122600 -0300" stop="20190831142200 -0300" channel="TNT">
-    <title lang="pt">Jumanji</title>
+  <programme start="20190902114000 -0300" stop="20190902130000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Tito e os Pássaros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831142200 -0300" stop="20190831160600 -0300" channel="TNT">
-    <title lang="pt">Gente Grande 2</title>
+  <programme start="20190902130000 -0300" stop="20190902133000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Balança Brasil</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831160600 -0300" stop="20190831180000 -0300" channel="TNT">
-    <title lang="pt">Policial em Apuros 2</title>
+  <programme start="20190902133000 -0300" stop="20190902140000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O País do Cinema</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831180000 -0300" stop="20190831190000 -0300" channel="TNT">
-    <title lang="pt">Pré-jogo Brasileirão 2019</title>
+  <programme start="20190902140000 -0300" stop="20190902141000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cinejornal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831190000 -0300" stop="20190831210000 -0300" channel="TNT">
-    <title lang="pt">Athletico PR x Ceará</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902141000 -0300" stop="20190902151000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Pizza</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831210000 -0300" stop="20190831223000 -0300" channel="TNT">
-    <title lang="pt">Último Lance</title>
+  <programme start="20190902151000 -0300" stop="20190902164500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Um Crime Nobre</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831223000 -0300" stop="20190831233000 -0300" channel="TNT">
-    <title lang="pt">Tá Pago Com Leandro Hassum</title>
+  <programme start="20190902164500 -0300" stop="20190902184500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Ana e Vitória</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831233000 -0300" stop="20190901013500 -0300" channel="TNT">
-    <title lang="pt">Invasão Zumbi</title>
+  <programme start="20190902184500 -0300" stop="20190902203000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Repartição Do Tempo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902203000 -0300" stop="20190902210000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Itinerários do Olhar</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902210000 -0300" stop="20190902213000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Anima Mundi Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902213000 -0300" stop="20190902220000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Espelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902223000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Arte do Encontro</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902223000 -0300" stop="20190902230000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Dunas do Barato</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902230000 -0300" stop="20190902233000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Som do Vinil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902233000 -0300" stop="20190903000000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O País do Cinema</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -1889,236 +1908,158 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901060000 -0300" stop="20190901070000 -0300" channel="TNT">
+  <programme start="20190901060000 -0300" stop="20190901074500 -0300" channel="TNT">
     <title lang="pt">Hollywood One on One</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901070000 -0300" stop="20190901084300 -0300" channel="TNT">
+  <programme start="20190901074500 -0300" stop="20190901092400 -0300" channel="TNT">
     <title lang="pt">Uma Aventura de Babás</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901084300 -0300" stop="20190901102000 -0300" channel="TNT">
+  <programme start="20190901092400 -0300" stop="20190901105600 -0300" channel="TNT">
     <title lang="pt">Judy Moody em Férias Incríveis</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901102000 -0300" stop="20190901122400 -0300" channel="TNT">
+  <programme start="20190901105600 -0300" stop="20190901125300 -0300" channel="TNT">
     <title lang="pt">Os Incríveis</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901122400 -0300" stop="20190901141200 -0300" channel="TNT">
+  <programme start="20190901125300 -0300" stop="20190901143900 -0300" channel="TNT">
     <title lang="pt">Jumanji</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901141200 -0300" stop="20190901160500 -0300" channel="TNT">
+  <programme start="20190901143900 -0300" stop="20190901162400 -0300" channel="TNT">
     <title lang="pt">Policial em Apuros 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901160500 -0300" stop="20190901175600 -0300" channel="TNT">
+  <programme start="20190901162400 -0300" stop="20190901181100 -0300" channel="TNT">
     <title lang="pt">Toy Story 3</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901175600 -0300" stop="20190901200100 -0300" channel="TNT">
+  <programme start="20190901181100 -0300" stop="20190901200500 -0300" channel="TNT">
     <title lang="pt">Alice Através do Espelho</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901200100 -0300" stop="20190901223000 -0300" channel="TNT">
+  <programme start="20190901200500 -0300" stop="20190901223000 -0300" channel="TNT">
     <title lang="pt">Vingadores: Era de Ultron</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901223000 -0300" stop="20190901233000 -0300" channel="TNT">
+  <programme start="20190901223000 -0300" stop="20190901233100 -0300" channel="TNT">
     <title lang="pt">Tá Pago Com Leandro Hassum</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901233000 -0300" stop="20190902011700 -0300" channel="TNT">
+  <programme start="20190901233100 -0300" stop="20190902011500 -0300" channel="TNT">
     <title lang="pt">Procurando Dory</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831000000 -0300" stop="20190831020000 -0300" channel="BAND NEWS">
-    <title lang="pt">Madrugada Bandnews</title>
+  <programme start="20190902011500 -0300" stop="20190902032500 -0300" channel="TNT">
+    <title lang="pt">Anjos da Noite</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831020000 -0300" stop="20190831024500 -0300" channel="BAND NEWS">
-    <title lang="pt">Jornal da Noite</title>
+  <programme start="20190902032500 -0300" stop="20190902045600 -0300" channel="TNT">
+    <title lang="pt">Sex Tape: Perdido na Nuvem</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831024500 -0300" stop="20190831030000 -0300" channel="BAND NEWS">
-    <title lang="pt">Madrugada Bandnews</title>
+  <programme start="20190902045600 -0300" stop="20190902053100 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831030000 -0300" stop="20190831033000 -0300" channel="BAND NEWS">
-    <title lang="pt">Ponto a Ponto</title>
+  <programme start="20190902053100 -0300" stop="20190902055500 -0300" channel="TNT">
+    <title lang="pt">Hollywood One on One</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831033000 -0300" stop="20190831040000 -0300" channel="BAND NEWS">
-    <title lang="pt">Madrugada Bandnews</title>
+  <programme start="20190902055500 -0300" stop="20190902060000 -0300" channel="TNT">
+    <title lang="pt">Tnt Buzz</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831040000 -0300" stop="20190831043000 -0300" channel="BAND NEWS">
-    <title lang="pt">Jornal Terraviva</title>
+  <programme start="20190902060000 -0300" stop="20190902080200 -0300" channel="TNT">
+    <title lang="pt">Caçadores de Emoção</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831043000 -0300" stop="20190831060000 -0300" channel="BAND NEWS">
-    <title lang="pt">Madrugada Bandnews</title>
+  <programme start="20190902080200 -0300" stop="20190902093200 -0300" channel="TNT">
+    <title lang="pt">Judy Moody em Férias Incríveis</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831060000 -0300" stop="20190831073000 -0300" channel="BAND NEWS">
-    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  <programme start="20190902093200 -0300" stop="20190902104200 -0300" channel="TNT">
+    <title lang="pt">Duelo de Titãs</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831073000 -0300" stop="20190831080000 -0300" channel="BAND NEWS">
-    <title lang="pt">Manhã Bandnews</title>
+  <programme start="20190902104200 -0300" stop="20190902124400 -0300" channel="TNT">
+    <title lang="pt">Miss Simpatia 2: Armada e Poderosa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831080000 -0300" stop="20190831083000 -0300" channel="BAND NEWS">
-    <title lang="pt">BandNews DOCs</title>
+  <programme start="20190902124400 -0300" stop="20190902144200 -0300" channel="TNT">
+    <title lang="pt">Policial em Apuros 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831083000 -0300" stop="20190831090000 -0300" channel="BAND NEWS">
-    <title lang="pt">Manhã Bandnews</title>
+  <programme start="20190902144200 -0300" stop="20190902163100 -0300" channel="TNT">
+    <title lang="pt">Procurando Nemo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831090000 -0300" stop="20190831093000 -0300" channel="BAND NEWS">
-    <title lang="pt">Conexão com The New York Times</title>
+  <programme start="20190902163100 -0300" stop="20190902183800 -0300" channel="TNT">
+    <title lang="pt">Alice Através do Espelho</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831093000 -0300" stop="20190831110000 -0300" channel="BAND NEWS">
-    <title lang="pt">Manhã Bandnews</title>
+  <programme start="20190902183800 -0300" stop="20190902203900 -0300" channel="TNT">
+    <title lang="pt">S.O.S Mulheres ao Mar 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831110000 -0300" stop="20190831113000 -0300" channel="BAND NEWS">
-    <title lang="pt">Ponto a Ponto</title>
+  <programme start="20190902203900 -0300" stop="20190902223000 -0300" channel="TNT">
+    <title lang="pt">Procurando Dory</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831113000 -0300" stop="20190831120000 -0300" channel="BAND NEWS">
-    <title lang="pt">Manhã Bandnews</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831120000 -0300" stop="20190831140000 -0300" channel="BAND NEWS">
-    <title lang="pt">Bandnews No Meio do Dia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831140000 -0300" stop="20190831153000 -0300" channel="BAND NEWS">
-    <title lang="pt">Tarde Bandnews</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831153000 -0300" stop="20190831160000 -0300" channel="BAND NEWS">
-    <title lang="pt">Feiras &amp; Negócios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831160000 -0300" stop="20190831173000 -0300" channel="BAND NEWS">
-    <title lang="pt">Tarde Bandnews</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831173000 -0300" stop="20190831180000 -0300" channel="BAND NEWS">
-    <title lang="pt">Capital Natural</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831180000 -0300" stop="20190831190000 -0300" channel="BAND NEWS">
-    <title lang="pt">Jornal BandNews: 2ª Edição</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831190000 -0300" stop="20190831193000 -0300" channel="BAND NEWS">
-    <title lang="pt">BandNews DOCs</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831193000 -0300" stop="20190831200000 -0300" channel="BAND NEWS">
-    <title lang="pt">Jornal BandNews: 2ª Edição</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831200000 -0300" stop="20190831203000 -0300" channel="BAND NEWS">
-    <title lang="pt">Fim de Semana Bandnews</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831203000 -0300" stop="20190831213000 -0300" channel="BAND NEWS">
-    <title lang="pt">Jornal da Band</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831213000 -0300" stop="20190831220000 -0300" channel="BAND NEWS">
-    <title lang="pt">Fim de Semana Bandnews</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831220000 -0300" stop="20190831230000 -0300" channel="BAND NEWS">
-    <title lang="pt">Jornal BandNews Edição da Noite</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831230000 -0300" stop="20190901000000 -0300" channel="BAND NEWS">
-    <title lang="pt">Conexão com The New York Times</title>
+  <programme start="20190902223000 -0300" stop="20190903005200 -0300" channel="TNT">
+    <title lang="pt">Um Sonho Possível</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -2237,292 +2178,262 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831023000 -0300" stop="20190831030000 -0300" channel="COMBATE">
+  <programme start="20190902000000 -0300" stop="20190902020000 -0300" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902020000 -0300" stop="20190902030000 -0300" channel="BAND NEWS">
+    <title lang="pt">Canal Livre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902030000 -0300" stop="20190902060000 -0300" channel="BAND NEWS">
+    <title lang="pt">Madrugada Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902060000 -0300" stop="20190902073000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902073000 -0300" stop="20190902120000 -0300" channel="BAND NEWS">
+    <title lang="pt">Manhã Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902120000 -0300" stop="20190902140000 -0300" channel="BAND NEWS">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902140000 -0300" stop="20190902180000 -0300" channel="BAND NEWS">
+    <title lang="pt">Tarde Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902180000 -0300" stop="20190902200000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902200000 -0300" stop="20190902203000 -0300" channel="BAND NEWS">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902203000 -0300" stop="20190902213000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal da Band</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902213000 -0300" stop="20190902220000 -0300" channel="BAND NEWS">
+    <title lang="pt">Expresso Bandnews</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902230000 -0300" channel="BAND NEWS">
+    <title lang="pt">Canal Livre</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902230000 -0300" stop="20190903000000 -0300" channel="BAND NEWS">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901020000 -0300" stop="20190901040000 -0300" channel="COMBATE">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Mundial de Judô: Tóquio, Japão</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901040000 -0300" stop="20190901070000 -0300" channel="COMBATE">
+    <title lang="pt">MMA Raíz: UFC 101</title>
+    <sub-title lang="pt">Declaration</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901070000 -0300" stop="20190901110000 -0300" channel="COMBATE">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Bate-Estaca x Weili Zhang</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901110000 -0300" stop="20190901113000 -0300" channel="COMBATE">
+    <title lang="pt">Sessão Combate: A Evolução do Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901113000 -0300" stop="20190901150000 -0300" channel="COMBATE">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Bate-Estaca x Weili Zhang</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901150000 -0300" stop="20190901183000 -0300" channel="COMBATE">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Bate-Estaca x Weili Zhang</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901183000 -0300" stop="20190901203000 -0300" channel="COMBATE">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Mundial de Judô: Tóquio, Japão</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901203000 -0300" stop="20190902000000 -0300" channel="COMBATE">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Bate-Estaca x Weili Zhang</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902000000 -0300" stop="20190902033000 -0300" channel="COMBATE">
     <title lang="pt">UFC Reprise</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831030000 -0300" stop="20190831033000 -0300" channel="COMBATE">
-    <title lang="pt">Giro Combate</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831033000 -0300" stop="20190831120000 -0300" channel="COMBATE">
-    <title lang="pt">HD</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831120000 -0300" stop="20190831130000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Unleashed</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831130000 -0300" stop="20190831163000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Reprise</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831163000 -0300" stop="20190831180000 -0300" channel="COMBATE">
-    <title lang="pt">The Ultimate Fighter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831180000 -0300" stop="20190831200000 -0300" channel="COMBATE">
-    <title lang="pt">Hora do MMA</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831200000 -0300" stop="20190831210000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Unleashed</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831210000 -0300" stop="20190831220000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Series</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831220000 -0300" stop="20190901000000 -0300" channel="COMBATE">
-    <title lang="pt">Hora do MMA</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901000000 -0300" stop="20190901033000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Reprise</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901033000 -0300" stop="20190901040000 -0300" channel="COMBATE">
+  <programme start="20190902033000 -0300" stop="20190902040000 -0300" channel="COMBATE">
     <title lang="pt">Variedades</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901040000 -0300" stop="20190901060000 -0300" channel="COMBATE">
+  <programme start="20190902040000 -0300" stop="20190902060000 -0300" channel="COMBATE">
     <title lang="pt">Hora do MMA</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901060000 -0300" stop="20190901070000 -0300" channel="COMBATE">
+  <programme start="20190902060000 -0300" stop="20190902070000 -0300" channel="COMBATE">
     <title lang="pt">UFC Series</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901070000 -0300" stop="20190901090000 -0300" channel="COMBATE">
+  <programme start="20190902070000 -0300" stop="20190902083000 -0300" channel="COMBATE">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Bjj Stars Challenger</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902083000 -0300" stop="20190902123000 -0300" channel="COMBATE">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Bate-Estaca x Weili Zhang</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902123000 -0300" stop="20190902130000 -0300" channel="COMBATE">
+    <title lang="pt">Sessão Combate: A Evolução do Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902130000 -0300" stop="20190902133000 -0300" channel="COMBATE">
+    <title lang="pt">Sessão Combate: A Evolução do Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902133000 -0300" stop="20190902140000 -0300" channel="COMBATE">
+    <title lang="pt">Sessão Combate: A Evolução do Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902140000 -0300" stop="20190902144000 -0300" channel="COMBATE">
+    <title lang="pt">Best Of Pride</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902144000 -0300" stop="20190902152500 -0300" channel="COMBATE">
+    <title lang="pt">The Ultimate Fighter 26: A New World Champion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902152500 -0300" stop="20190902161000 -0300" channel="COMBATE">
+    <title lang="pt">The Ultimate Fighter 26: A New World Champion</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902161000 -0300" stop="20190902174000 -0300" channel="COMBATE">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Bjj Stars Challenger</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902174000 -0300" stop="20190902194000 -0300" channel="COMBATE">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Mundial de Judô: Tóquio, Japão</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902194000 -0300" stop="20190902200000 -0300" channel="COMBATE">
+    <title lang="pt">UFC 25 Years In Short</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902200000 -0300" stop="20190902203000 -0300" channel="COMBATE">
+    <title lang="pt">Sessão Combate: A Evolução do Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902203000 -0300" stop="20190902210000 -0300" channel="COMBATE">
+    <title lang="pt">Sessão Combate: A Evolução do Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902210000 -0300" stop="20190902213000 -0300" channel="COMBATE">
     <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Do Jiu-Jitsu ao MMA</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901090000 -0300" stop="20190901110000 -0300" channel="COMBATE">
-    <title lang="pt">Hora do MMA</title>
+  <programme start="20190902213000 -0300" stop="20190902220000 -0300" channel="COMBATE">
+    <title lang="pt">Sessão Combate</title>
+    <sub-title lang="pt">Do Jiu-Jitsu ao MMA</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901110000 -0300" stop="20190901120000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Series</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901120000 -0300" stop="20190901130000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Unleashed</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901130000 -0300" stop="20190901163000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Reprise</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901163000 -0300" stop="20190901180000 -0300" channel="COMBATE">
-    <title lang="pt">The Ultimate Fighter</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901180000 -0300" stop="20190901200000 -0300" channel="COMBATE">
-    <title lang="pt">Hora do MMA</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901200000 -0300" stop="20190901210000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Unleashed</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901210000 -0300" stop="20190901220000 -0300" channel="COMBATE">
-    <title lang="pt">UFC Series</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901220000 -0300" stop="20190902000000 -0300" channel="COMBATE">
-    <title lang="pt">Hora do MMA</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831003000 -0300" stop="20190831010000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Perto Deles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831010000 -0300" stop="20190831013000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Poker Night</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831013000 -0300" stop="20190831040000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Baita Amigos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831040000 -0300" stop="20190831043000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Rolex Spirit of Yachting</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831043000 -0300" stop="20190831050000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Ícones do Esporte</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831050000 -0300" stop="20190831053000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Times dos Sonhos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831053000 -0300" stop="20190831060000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Poker Night</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831060000 -0300" stop="20190831070000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Sala do Esporte</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831070000 -0300" stop="20190831073000 -0300" channel="BANDESPORTE">
-    <title lang="pt">De Craque para Craque</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831073000 -0300" stop="20190831090000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Mundial de Endurance 4 Hrs de Silverstone</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831090000 -0300" stop="20190831113000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Baita Amigos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831113000 -0300" stop="20190831120000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Papo de Boleiro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831120000 -0300" stop="20190831140000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Diamond League: Zurique</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831140000 -0300" stop="20190831153000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Mundial de Endurance 4 Hrs de Silverstone</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831153000 -0300" stop="20190831160000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Rolex Spirit of Yachting</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831160000 -0300" stop="20190831163000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Ícones do Esporte</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831163000 -0300" stop="20190831170000 -0300" channel="BANDESPORTE">
-    <title lang="pt">A Lista</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831170000 -0300" stop="20190831173000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Perto Deles</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831173000 -0300" stop="20190831180000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Times dos Sonhos</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831180000 -0300" stop="20190831200000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Diamond League: Zurique</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831200000 -0300" stop="20190831210000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Vila Bandsports</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831210000 -0300" stop="20190831213000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Rolex Spirit of Yachting</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831213000 -0300" stop="20190831230000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Mundial de Endurance 4 Hrs de Silverstone</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831230000 -0300" stop="20190901000000 -0300" channel="BANDESPORTE">
-    <title lang="pt">Bandsports News</title>
+  <programme start="20190902220000 -0300" stop="20190903000000 -0300" channel="COMBATE">
+    <title lang="pt">Arena Combate Grappling</title>
+    <sub-title lang="pt">Etapa Abu Dhabi 2019</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -2641,126 +2552,107 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831000000 -0300" stop="20190831013000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Resenha ESPN</title>
+  <programme start="20190902000000 -0300" stop="20190902020000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Depois do Jogo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831013000 -0300" stop="20190831020000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Mundo Premier League</title>
+  <programme start="20190902020000 -0300" stop="20190902030000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Doc. Bandsports</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831020000 -0300" stop="20190831023000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Premier League: Match Pack</title>
+  <programme start="20190902030000 -0300" stop="20190902050000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Mundial de Endurance 4 Hrs de Silverstone</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831023000 -0300" stop="20190831030000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Prévia do Campeonato Espanhol</title>
+  <programme start="20190902050000 -0300" stop="20190902060000 -0300" channel="BANDESPORTE">
+    <title lang="pt">PBR</title>
+    <sub-title lang="pt">Bull Riders</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831030000 -0300" stop="20190831040000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
+  <programme start="20190902060000 -0300" stop="20190902070000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Doc. Bandsports</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831040000 -0300" stop="20190831055000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Campeonato Inglês 2ª Divisão: Cardiff City x Fulham</title>
+  <programme start="20190902070000 -0300" stop="20190902090000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Depois do Jogo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831055000 -0300" stop="20190831075000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Lincoln City x Everton</title>
+  <programme start="20190902090000 -0300" stop="20190902100000 -0300" channel="BANDESPORTE">
+    <title lang="pt">PBR</title>
+    <sub-title lang="pt">Bull Riders</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831075000 -0300" stop="20190831082000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Mundo Premier League</title>
+  <programme start="20190902100000 -0300" stop="20190902120000 -0300" channel="BANDESPORTE">
+    <title lang="pt">1º Tempo Band Sports</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831082000 -0300" stop="20190831103000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Southampton x Manchester United</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902120000 -0300" stop="20190902160000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Bandsports News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831103000 -0300" stop="20190831105000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Abre o Jogo: Premier League</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902160000 -0300" stop="20190902163000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Gol</title>
+    <sub-title lang="pt">O Grande Momento do Futebol</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831105000 -0300" stop="20190831130000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Chelsea x Sheffield United</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902163000 -0300" stop="20190902173000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Vila Bandsports</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831130000 -0300" stop="20190831132000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Abre o Jogo: Premier League</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902173000 -0300" stop="20190902193000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Bola Rolando</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831132000 -0300" stop="20190831153000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Burnley x Liverpool</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902193000 -0300" stop="20190902200000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Bandsports News</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831153000 -0300" stop="20190831155500 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Abre o Jogo: Campeonato Espanhol</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902200000 -0300" stop="20190902223000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Baita Amigos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831155500 -0300" stop="20190831180000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Betis x Leganes</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902223000 -0300" stop="20190902230000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Papo de Boleiro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831180000 -0300" stop="20190831190000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Futebol no Mundo</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902230000 -0300" stop="20190902233000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Ícones do Esporte</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831190000 -0300" stop="20190831205000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Osasuna x Barcelona</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831205000 -0300" stop="20190831230000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Futebol na Veia</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831230000 -0300" stop="20190901000000 -0300" channel="ESPN BRASIL">
-    <title lang="pt">Sportscenter</title>
-    <sub-title lang="pt">Ao Vivo</sub-title>
+  <programme start="20190902233000 -0300" stop="20190903003000 -0300" channel="BANDESPORTE">
+    <title lang="pt">Sala do Esporte</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -2863,144 +2755,94 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831003000 -0300" stop="20190831013000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Ceará x Flamengo</sub-title>
+  <programme start="20190902000000 -0300" stop="20190902013000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Resenha ESPN</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831013000 -0300" stop="20190831023000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Avaí x Corinthians</sub-title>
+  <programme start="20190902013000 -0300" stop="20190902033000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Villarreal x Real Madrid</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831023000 -0300" stop="20190831033000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Botafogo x Chapecoense</sub-title>
+  <programme start="20190902033000 -0300" stop="20190902043000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831033000 -0300" stop="20190831043000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Goiás x Internacional</sub-title>
+  <programme start="20190902043000 -0300" stop="20190902050000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Gary Neville's Soccerbox: Gianfranco Zola</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831043000 -0300" stop="20190831053000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Vasco x São Paulo</sub-title>
+  <programme start="20190902050000 -0300" stop="20190902070000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sevilla x Celta</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831053000 -0300" stop="20190831063000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Santos x Fortaleza</sub-title>
+  <programme start="20190902070000 -0300" stop="20190902090000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831063000 -0300" stop="20190831073000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Ceará x Flamengo</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831073000 -0300" stop="20190831083000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Avaí x Corinthians</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831083000 -0300" stop="20190831091500 -0300" channel="PREMIERE FC">
-    <title lang="pt">Giro da Rodada</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831091500 -0300" stop="20190831100000 -0300" channel="PREMIERE FC">
-    <title lang="pt">FPF EP. 31</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831100000 -0300" stop="20190831130000 -0300" channel="PREMIERE FC">
-    <title lang="pt">São Paulo x Grêmio</title>
+  <programme start="20190902090000 -0300" stop="20190902110000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">ESPN Bom Dia</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831130000 -0300" stop="20190831140000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Goiás x Internacional</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831140000 -0300" stop="20190831150000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Santos x Fortaleza</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831150000 -0300" stop="20190831160000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831160000 -0300" stop="20190831161500 -0300" channel="PREMIERE FC">
-    <title lang="pt">Giro da Rodada</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831161500 -0300" stop="20190831164000 -0300" channel="PREMIERE FC">
-    <title lang="pt">TV Azulão EP. 16</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831164000 -0300" stop="20190831190000 -0300" channel="PREMIERE FC">
-    <title lang="pt">Bahia x Csa AL</title>
+  <programme start="20190902110000 -0300" stop="20190902120000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831190000 -0300" stop="20190831200000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831200000 -0300" stop="20190831204000 -0300" channel="PREMIERE FC">
-    <title lang="pt">Giro da Rodada</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190831204000 -0300" stop="20190831230000 -0300" channel="PREMIERE FC">
-    <title lang="pt">Internacional x Botafogo</title>
+  <programme start="20190902120000 -0300" stop="20190902140000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Bate-Bola Debate</title>
     <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831230000 -0300" stop="20190901000000 -0300" channel="PREMIERE FC">
-    <title lang="pt">VT</title>
-    <sub-title lang="pt">Bahia x Csa AL</sub-title>
+  <programme start="20190902140000 -0300" stop="20190902150000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol no Mundo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902150000 -0300" stop="20190902180000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902180000 -0300" stop="20190902200000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Futebol na Veia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902200000 -0300" stop="20190902220000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Sportscenter</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190903000000 -0300" channel="ESPN BRASIL">
+    <title lang="pt">Linha de Passe: Mesa Redonda</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -3193,134 +3035,198 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831001000 -0300" stop="20190831012300 -0300" channel="FOX">
-    <title lang="pt">Programa da Maisa</title>
+  <programme start="20190902000000 -0300" stop="20190902010000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fortaleza x Goiás</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831012300 -0300" stop="20190831025800 -0300" channel="FOX">
-    <title lang="pt">Querem Acabar Comigo</title>
+  <programme start="20190902010000 -0300" stop="20190902020000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831025800 -0300" stop="20190831042800 -0300" channel="FOX">
-    <title lang="pt">Uma Casa de Pernas pro Ar</title>
+  <programme start="20190902020000 -0300" stop="20190902030000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Santos</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831042800 -0300" stop="20190831061300 -0300" channel="FOX">
-    <title lang="pt">Quebrando o Banco</title>
+  <programme start="20190902030000 -0300" stop="20190902040000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Botafogo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831061300 -0300" stop="20190831063600 -0300" channel="FOX">
-    <title lang="pt">Futurama</title>
+  <programme start="20190902040000 -0300" stop="20190902050000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Palmeiras</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831063600 -0300" stop="20190831070000 -0300" channel="FOX">
-    <title lang="pt">Futurama</title>
+  <programme start="20190902050000 -0300" stop="20190902060000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831070000 -0300" stop="20190831072300 -0300" channel="FOX">
-    <title lang="pt">Will &amp; Grace</title>
+  <programme start="20190902060000 -0300" stop="20190902070000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético/MG</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831072300 -0300" stop="20190831074700 -0300" channel="FOX">
-    <title lang="pt">Will &amp; Grace</title>
+  <programme start="20190902070000 -0300" stop="20190902080000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831074700 -0300" stop="20190831080000 -0300" channel="FOX">
-    <title lang="pt">Zoom In</title>
+  <programme start="20190902080000 -0300" stop="20190902083000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Tv Leão</title>
+    <sub-title lang="pt">Ep. 05</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831080000 -0300" stop="20190831090000 -0300" channel="FOX">
-    <title lang="pt">Programa Pago</title>
+  <programme start="20190902083000 -0300" stop="20190902090000 -0300" channel="PREMIERE FC">
+    <title lang="pt">FPF EP. 31</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831090000 -0300" stop="20190831100000 -0300" channel="FOX">
-    <title lang="pt">Programa Pago</title>
+  <programme start="20190902090000 -0300" stop="20190902093000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Vozão TV Ep. 109</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831100000 -0300" stop="20190831113800 -0300" channel="FOX">
-    <title lang="pt">Zoolander</title>
+  <programme start="20190902093000 -0300" stop="20190902094500 -0300" channel="PREMIERE FC">
+    <title lang="pt">Bento TV Ep. 14</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831113800 -0300" stop="20190831120200 -0300" channel="FOX">
-    <title lang="pt">Os Simpsons</title>
+  <programme start="20190902094500 -0300" stop="20190902100000 -0300" channel="PREMIERE FC">
+    <title lang="pt">TV Xavante</title>
+    <sub-title lang="pt">Ep. 07</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831120200 -0300" stop="20190831122900 -0300" channel="FOX">
-    <title lang="pt">Os Simpsons</title>
+  <programme start="20190902100000 -0300" stop="20190902101500 -0300" channel="PREMIERE FC">
+    <title lang="pt">TV Azulão EP. 16</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831122900 -0300" stop="20190831125600 -0300" channel="FOX">
-    <title lang="pt">Os Simpsons</title>
+  <programme start="20190902101500 -0300" stop="20190902103000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Giro da Rodada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831125600 -0300" stop="20190831143900 -0300" channel="FOX">
-    <title lang="pt">Querem Acabar Comigo</title>
+  <programme start="20190902103000 -0300" stop="20190902104500 -0300" channel="PREMIERE FC">
+    <title lang="pt">Sempre Estarei Contigo Ep. 55</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831143900 -0300" stop="20190831161800 -0300" channel="FOX">
-    <title lang="pt">Uma Casa de Pernas pro Ar</title>
+  <programme start="20190902104500 -0300" stop="20190902110000 -0300" channel="PREMIERE FC">
+    <title lang="pt">TV Goiás</title>
+    <sub-title lang="pt">Ep. 153</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831161800 -0300" stop="20190831181500 -0300" channel="FOX">
-    <title lang="pt">Jumanji</title>
+  <programme start="20190902110000 -0300" stop="20190902120000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Santos</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831181500 -0300" stop="20190831200000 -0300" channel="FOX">
-    <title lang="pt">Gente Grande 2</title>
+  <programme start="20190902120000 -0300" stop="20190902130000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Botafogo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831200000 -0300" stop="20190831214500 -0300" channel="FOX">
-    <title lang="pt">Vovó...Zona</title>
+  <programme start="20190902130000 -0300" stop="20190902140000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Palmeiras</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831214500 -0300" stop="20190831233100 -0300" channel="FOX">
-    <title lang="pt">Vovó...Zona 2</title>
+  <programme start="20190902140000 -0300" stop="20190902150000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831233100 -0300" stop="20190901012400 -0300" channel="FOX">
-    <title lang="pt">Vovó... Zona 3: Tal Pai, Tal Filho</title>
+  <programme start="20190902150000 -0300" stop="20190902160000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético/MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902160000 -0300" stop="20190902170000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902170000 -0300" stop="20190902180000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Chapecoense x Santos</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902180000 -0300" stop="20190902190000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Internacional x Botafogo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902190000 -0300" stop="20190902194000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902194000 -0300" stop="20190902220000 -0300" channel="PREMIERE FC">
+    <title lang="pt">Fluminense x Avaí</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902230000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Flamengo x Palmeiras</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902230000 -0300" stop="20190903000000 -0300" channel="PREMIERE FC">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -3427,81 +3333,170 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831002500 -0300" stop="20190831023500 -0300" channel="MEGAPIX">
-    <title lang="pt">De Emprego Novo: Intocáveis</title>
+  <programme start="20190902004200 -0300" stop="20190902022000 -0300" channel="FOX">
+    <title lang="pt">Vovó...Zona</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831023500 -0300" stop="20190831041500 -0300" channel="MEGAPIX">
-    <title lang="pt">Pânico Na Floresta</title>
+  <programme start="20190902022000 -0300" stop="20190902035900 -0300" channel="FOX">
+    <title lang="pt">Como se Fosse a Primeira Vez</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831041500 -0300" stop="20190831063000 -0300" channel="MEGAPIX">
-    <title lang="pt">Divisão De Homicídios</title>
+  <programme start="20190902035900 -0300" stop="20190902054400 -0300" channel="FOX">
+    <title lang="pt">A Filha do Presidente</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831063000 -0300" stop="20190831084000 -0300" channel="MEGAPIX">
-    <title lang="pt">Eu Os Declaro Marido E... Larry!</title>
+  <programme start="20190902054400 -0300" stop="20190902055600 -0300" channel="FOX">
+    <title lang="pt">A Balada do B.O.B.</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831084000 -0300" stop="20190831104500 -0300" channel="MEGAPIX">
-    <title lang="pt">Debi &amp; Lóide 2</title>
+  <programme start="20190902055600 -0300" stop="20190902060600 -0300" channel="FOX">
+    <title lang="pt">Os Pinguins de Madagascar em uma Missão de Natal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831104500 -0300" stop="20190831125500 -0300" channel="MEGAPIX">
-    <title lang="pt">A Bela e a Fera (2014)</title>
+  <programme start="20190902060600 -0300" stop="20190902063300 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831125500 -0300" stop="20190831143500 -0300" channel="MEGAPIX">
-    <title lang="pt">Megakids.: Um Lobo em Pele de Cordeiro</title>
+  <programme start="20190902063300 -0300" stop="20190902070000 -0300" channel="FOX">
+    <title lang="pt">Futurama</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831143500 -0300" stop="20190831162500 -0300" channel="MEGAPIX">
-    <title lang="pt">A Creche Do Papai</title>
+  <programme start="20190902070000 -0300" stop="20190902072300 -0300" channel="FOX">
+    <title lang="pt">Will &amp; Grace</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831162500 -0300" stop="20190831181500 -0300" channel="MEGAPIX">
-    <title lang="pt">Sessão Megateen: O Segredo da Cabana</title>
+  <programme start="20190902072300 -0300" stop="20190902074600 -0300" channel="FOX">
+    <title lang="pt">Will &amp; Grace</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831181500 -0300" stop="20190831201000 -0300" channel="MEGAPIX">
-    <title lang="pt">Carga Explosiva</title>
-    <sub-title lang="pt">O Legado</sub-title>
+  <programme start="20190902074600 -0300" stop="20190902080000 -0300" channel="FOX">
+    <title lang="pt">Zoom In</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831201000 -0300" stop="20190831220000 -0300" channel="MEGAPIX">
-    <title lang="pt">Boyka: O Imbatível</title>
+  <programme start="20190902080000 -0300" stop="20190902090000 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831220000 -0300" stop="20190831235000 -0300" channel="MEGAPIX">
-    <title lang="pt">O Último Caçador de Bruxas</title>
+  <programme start="20190902090000 -0300" stop="20190902095900 -0300" channel="FOX">
+    <title lang="pt">Programa Pago</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831235000 -0300" stop="20190901000000 -0300" channel="MEGAPIX">
-    <title lang="pt">O Justiceiro</title>
+  <programme start="20190902095900 -0300" stop="20190902115600 -0300" channel="FOX">
+    <title lang="pt">Os Smurfs 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902115600 -0300" stop="20190902133500 -0300" channel="FOX">
+    <title lang="pt">Alvin e os Esquilos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902133500 -0300" stop="20190902152600 -0300" channel="FOX">
+    <title lang="pt">As Aventuras de Tintim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902152600 -0300" stop="20190902165200 -0300" channel="FOX">
+    <title lang="pt">Tá Dando Onda</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902165200 -0300" stop="20190902171400 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902171400 -0300" stop="20190902173900 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902173900 -0300" stop="20190902180400 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902180400 -0300" stop="20190902182500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902182500 -0300" stop="20190902200800 -0300" channel="FOX">
+    <title lang="pt">Vovó...Zona</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902200800 -0300" stop="20190902202900 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902202900 -0300" stop="20190902205400 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902205400 -0300" stop="20190902211800 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902211800 -0300" stop="20190902213900 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902213900 -0300" stop="20190902220500 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220500 -0300" stop="20190902223000 -0300" channel="FOX">
+    <title lang="pt">Os Simpsons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902223000 -0300" stop="20190903001100 -0300" channel="FOX">
+    <title lang="pt">Vovó...Zona 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -3536,14 +3531,14 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901094000 -0300" stop="20190901120000 -0300" channel="MEGAPIX">
-    <title lang="pt">Oblivion</title>
+  <programme start="20190901094000 -0300" stop="20190901114500 -0300" channel="MEGAPIX">
+    <title lang="pt">O Ilusionista</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901120000 -0300" stop="20190901140000 -0300" channel="MEGAPIX">
-    <title lang="pt">Sessão Retrô.: Jumanji</title>
+  <programme start="20190901114500 -0300" stop="20190901140000 -0300" channel="MEGAPIX">
+    <title lang="pt">Sessão Retrô.: Uma Linda Mulher</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -3579,75 +3574,75 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831004500 -0300" stop="20190831015000 -0300" channel="HBO 2">
-    <title lang="pt">Pico da Neblina</title>
+  <programme start="20190902000500 -0300" stop="20190902015000 -0300" channel="MEGAPIX">
+    <title lang="pt">Veículo 19</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831015000 -0300" stop="20190831040000 -0300" channel="HBO 2">
-    <title lang="pt">Seven</title>
-    <sub-title lang="pt">Os Sete Crimes Capitais</sub-title>
+  <programme start="20190902015000 -0300" stop="20190902034000 -0300" channel="MEGAPIX">
+    <title lang="pt">Carga Preciosa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831040000 -0300" stop="20190831063500 -0300" channel="HBO 2">
-    <title lang="pt">Sex And The City 2</title>
+  <programme start="20190902034000 -0300" stop="20190902060500 -0300" channel="MEGAPIX">
+    <title lang="pt">Sem Dor, Sem Ganho</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831063500 -0300" stop="20190831081500 -0300" channel="HBO 2">
-    <title lang="pt">As Loucuras de Dick e Jane</title>
+  <programme start="20190902060500 -0300" stop="20190902083000 -0300" channel="MEGAPIX">
+    <title lang="pt">Homens de Coragem</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831081500 -0300" stop="20190831102000 -0300" channel="HBO 2">
-    <title lang="pt">Marshall: Igualdade e Justiça</title>
+  <programme start="20190902083000 -0300" stop="20190902103500 -0300" channel="MEGAPIX">
+    <title lang="pt">O Exterminador do Futuro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831102000 -0300" stop="20190831110000 -0300" channel="HBO 2">
-    <title lang="pt">Greg News Com Gregório Duvivier</title>
+  <programme start="20190902103500 -0300" stop="20190902123000 -0300" channel="MEGAPIX">
+    <title lang="pt">Ficção Científica Volume Um: O Legado De Osiris</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831110000 -0300" stop="20190831140000 -0300" channel="HBO 2">
-    <title lang="pt">O Aviador</title>
+  <programme start="20190902123000 -0300" stop="20190902145500 -0300" channel="MEGAPIX">
+    <title lang="pt">Jurassic Park</title>
+    <sub-title lang="pt">O Mundo Perdido</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831140000 -0300" stop="20190831161500 -0300" channel="HBO 2">
-    <title lang="pt">12 Heróis</title>
+  <programme start="20190902145500 -0300" stop="20190902164000 -0300" channel="MEGAPIX">
+    <title lang="pt">Anaconda 4</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831161500 -0300" stop="20190831181000 -0300" channel="HBO 2">
-    <title lang="pt">Alma da Festa</title>
+  <programme start="20190902164000 -0300" stop="20190902183500 -0300" channel="MEGAPIX">
+    <title lang="pt">Uma História De Vingança</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831181000 -0300" stop="20190831200000 -0300" channel="HBO 2">
-    <title lang="pt">Te Peguei!</title>
+  <programme start="20190902183500 -0300" stop="20190902202500 -0300" channel="MEGAPIX">
+    <title lang="pt">Mulheres Alteradas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831200000 -0300" stop="20190831220000 -0300" channel="HBO 2">
-    <title lang="pt">White Boy Rick</title>
+  <programme start="20190902202500 -0300" stop="20190902223000 -0300" channel="MEGAPIX">
+    <title lang="pt">Keanu Reeves 5.5: O Homem do Tai Chi</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831220000 -0300" stop="20190901000000 -0300" channel="HBO 2">
-    <title lang="pt">Megatubarão</title>
+  <programme start="20190902223000 -0300" stop="20190903003000 -0300" channel="MEGAPIX">
+    <title lang="pt">Keanu Reeves 5.5: 47 Ronins</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -3736,68 +3731,100 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831012000 -0300" stop="20190831025500 -0300" channel="HBO PLUS">
-    <title lang="pt">Zumbilândia</title>
+  <programme start="20190902000500 -0300" stop="20190902020000 -0300" channel="HBO 2">
+    <title lang="pt">Tempestade: Planeta em Fúria</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831025500 -0300" stop="20190831044500 -0300" channel="HBO PLUS">
-    <title lang="pt">Gremlins</title>
+  <programme start="20190902020000 -0300" stop="20190902035000 -0300" channel="HBO 2">
+    <title lang="pt">Artista do Desastre</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831044500 -0300" stop="20190831064500 -0300" channel="HBO PLUS">
-    <title lang="pt">Lanterna Verde</title>
+  <programme start="20190902035000 -0300" stop="20190902053000 -0300" channel="HBO 2">
+    <title lang="pt">Mortal Kombat</title>
+    <sub-title lang="pt">A Aniquilação</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831064500 -0300" stop="20190831084500 -0300" channel="HBO PLUS">
-    <title lang="pt">Dois Caras Legais</title>
+  <programme start="20190902053000 -0300" stop="20190902071000 -0300" channel="HBO 2">
+    <title lang="pt">Nancy Drew</title>
+    <sub-title lang="pt">E o Mistério de Hollywood</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831084500 -0300" stop="20190831104500 -0300" channel="HBO PLUS">
-    <title lang="pt">O Estrangeiro</title>
+  <programme start="20190902071000 -0300" stop="20190902085500 -0300" channel="HBO 2">
+    <title lang="pt">O Começo de um Novo Amor</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831104500 -0300" stop="20190831130500 -0300" channel="HBO PLUS">
-    <title lang="pt">Todo Dinheiro Do Mundo</title>
+  <programme start="20190902085500 -0300" stop="20190902103500 -0300" channel="HBO 2">
+    <title lang="pt">Pé Pequeno</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831130500 -0300" stop="20190831153000 -0300" channel="HBO PLUS">
-    <title lang="pt">A Grande Jogada</title>
+  <programme start="20190902103500 -0300" stop="20190902122500 -0300" channel="HBO 2">
+    <title lang="pt">Tempestade: Planeta em Fúria</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831153000 -0300" stop="20190831173500 -0300" channel="HBO PLUS">
-    <title lang="pt">Logan Lucky: Roubo em Família</title>
+  <programme start="20190902122500 -0300" stop="20190902141000 -0300" channel="HBO 2">
+    <title lang="pt">Lego Ninjago: O Filme</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831173500 -0300" stop="20190831200000 -0300" channel="HBO PLUS">
-    <title lang="pt">Jogador Nº 1</title>
+  <programme start="20190902141000 -0300" stop="20190902155500 -0300" channel="HBO 2">
+    <title lang="pt">Artista do Desastre</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831200000 -0300" stop="20190831220000 -0300" channel="HBO PLUS">
-    <title lang="pt">O Estrangeiro</title>
+  <programme start="20190902155500 -0300" stop="20190902174000 -0300" channel="HBO 2">
+    <title lang="pt">A Freira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831220000 -0300" stop="20190901000500 -0300" channel="HBO PLUS">
-    <title lang="pt">O Protetor 2</title>
+  <programme start="20190902174000 -0300" stop="20190902181500 -0300" channel="HBO 2">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902181500 -0300" stop="20190902192000 -0300" channel="HBO 2">
+    <title lang="pt">Milton Nascimento: Intimidade e Poesia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902192000 -0300" stop="20190902210000 -0300" channel="HBO 2">
+    <title lang="pt">Pé Pequeno</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902210000 -0300" stop="20190902220000 -0300" channel="HBO 2">
+    <title lang="pt">Pico da Neblina</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902233000 -0300" channel="HBO 2">
+    <title lang="pt">Os Estranhos: Caçada Noturna</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902233000 -0300" stop="20190903014500 -0300" channel="HBO 2">
+    <title lang="pt">12 Heróis</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -3899,87 +3926,92 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831012200 -0300" stop="20190831031300 -0300" channel="HBO FAMILY">
-    <title lang="pt">A Colheita da Fé</title>
+  <programme start="20190902013000 -0300" stop="20190902033500 -0300" channel="HBO PLUS">
+    <title lang="pt">O Iluminado</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831031300 -0300" stop="20190831050000 -0300" channel="HBO FAMILY">
-    <title lang="pt">Sem Reservas</title>
+  <programme start="20190902033500 -0300" stop="20190902054500 -0300" channel="HBO PLUS">
+    <title lang="pt">A Síndrome da China</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831050000 -0300" stop="20190831070700 -0300" channel="HBO FAMILY">
-    <title lang="pt">Superman 3</title>
+  <programme start="20190902054500 -0300" stop="20190902073500 -0300" channel="HBO PLUS">
+    <title lang="pt">Um Novato na Máfia</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831070700 -0300" stop="20190831084400 -0300" channel="HBO FAMILY">
-    <title lang="pt">Pedro Coelho</title>
+  <programme start="20190902073500 -0300" stop="20190902084500 -0300" channel="HBO PLUS">
+    <title lang="pt">T.J. Miller: Meticulosamente Ridículo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831084400 -0300" stop="20190831100500 -0300" channel="HBO FAMILY">
-    <title lang="pt">Lego Dc Comics Super Herois: O Flash</title>
+  <programme start="20190902084500 -0300" stop="20190902103500 -0300" channel="HBO PLUS">
+    <title lang="pt">Alma da Festa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831100500 -0300" stop="20190831112400 -0300" channel="HBO FAMILY">
-    <title lang="pt">Lego DC Comics Super Herois: Aquaman</title>
-    <sub-title lang="pt">A Fúria de Atlântida</sub-title>
+  <programme start="20190902103500 -0300" stop="20190902111000 -0300" channel="HBO PLUS">
+    <title lang="pt">Los Espookys</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831112400 -0300" stop="20190831130600 -0300" channel="HBO FAMILY">
-    <title lang="pt">Expresso Polar</title>
+  <programme start="20190902111000 -0300" stop="20190902114500 -0300" channel="HBO PLUS">
+    <title lang="pt">Los Espookys</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831130600 -0300" stop="20190831145500 -0300" channel="HBO FAMILY">
-    <title lang="pt">Your Name</title>
+  <programme start="20190902114500 -0300" stop="20190902125000 -0300" channel="HBO PLUS">
+    <title lang="pt">Bill Maher: Live From Dc</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831145500 -0300" stop="20190831164800 -0300" channel="HBO FAMILY">
-    <title lang="pt">Oito Mulheres e Um Segredo</title>
+  <programme start="20190902125000 -0300" stop="20190902145000 -0300" channel="HBO PLUS">
+    <title lang="pt">Megatubarão</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831164800 -0300" stop="20190831182800 -0300" channel="HBO FAMILY">
-    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+  <programme start="20190902145000 -0300" stop="20190902164000 -0300" channel="HBO PLUS">
+    <title lang="pt">Perfeita é a Mãe 2</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831182800 -0300" stop="20190831200000 -0300" channel="HBO FAMILY">
-    <title lang="pt">Tá Chovendo Hambúrguer</title>
+  <programme start="20190902164000 -0300" stop="20190902181000 -0300" channel="HBO PLUS">
+    <title lang="pt">Guerras de Casamentos</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831200000 -0300" stop="20190831214900 -0300" channel="HBO FAMILY">
-    <title lang="pt">Rampage: Destruição Total</title>
+  <programme start="20190902181000 -0300" stop="20190902200000 -0300" channel="HBO PLUS">
+    <title lang="pt">Alma da Festa</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831214900 -0300" stop="20190831235100 -0300" channel="HBO FAMILY">
-    <title lang="pt">Jumanji: Bem-Vindo à Selva</title>
+  <programme start="20190902200000 -0300" stop="20190902220000 -0300" channel="HBO PLUS">
+    <title lang="pt">Megatubarão</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831235100 -0300" stop="20190901015300 -0300" channel="HBO FAMILY">
-    <title lang="pt">Liga da Justiça</title>
+  <programme start="20190902220000 -0300" stop="20190902223500 -0300" channel="HBO PLUS">
+    <title lang="pt">Greg News Com Gregório Duvivier</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902223500 -0300" stop="20190903001000 -0300" channel="HBO PLUS">
+    <title lang="pt">Eu Compartilho. Eu Gosto. Eu Sigo.</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -4068,68 +4100,86 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831001800 -0300" stop="20190831011800 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Vinyl</title>
+  <programme start="20190902011500 -0300" stop="20190902032800 -0300" channel="HBO FAMILY">
+    <title lang="pt">Espanglês</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831011800 -0300" stop="20190831021500 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Vinyl</title>
+  <programme start="20190902032800 -0300" stop="20190902051800 -0300" channel="HBO FAMILY">
+    <title lang="pt">7 Minutos Depois da Meia-noite</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831021500 -0300" stop="20190831031000 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Vinyl</title>
+  <programme start="20190902051800 -0300" stop="20190902064900 -0300" channel="HBO FAMILY">
+    <title lang="pt">A Princesa Encantada</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831031000 -0300" stop="20190831051200 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Lion: Uma Jornada Para Casa</title>
+  <programme start="20190902064900 -0300" stop="20190902083100 -0300" channel="HBO FAMILY">
+    <title lang="pt">Onde Vivem os Monstros</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831051200 -0300" stop="20190831064700 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Wig</title>
+  <programme start="20190902083100 -0300" stop="20190902095800 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Que Será de Nozes?</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831064700 -0300" stop="20190831084900 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Trama Internacional</title>
+  <programme start="20190902095800 -0300" stop="20190902113200 -0300" channel="HBO FAMILY">
+    <title lang="pt">Show Dogs: O Agente Canino</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831084900 -0300" stop="20190831130300 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">A Vida em Preto e Branco</title>
+  <programme start="20190902113200 -0300" stop="20190902130000 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Gigante de Ferro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831130300 -0300" stop="20190831142900 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Mamãe Morta e Querida</title>
+  <programme start="20190902130000 -0300" stop="20190902143300 -0300" channel="HBO FAMILY">
+    <title lang="pt">Licença para Casar</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831142900 -0300" stop="20190831161800 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Oportunistas</title>
+  <programme start="20190902143300 -0300" stop="20190902163400 -0300" channel="HBO FAMILY">
+    <title lang="pt">À Prova de Fogo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831161800 -0300" stop="20190831180800 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Dunkirk</title>
+  <programme start="20190902163400 -0300" stop="20190902181700 -0300" channel="HBO FAMILY">
+    <title lang="pt">Feitiço do Tempo</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190831180800 -0300" stop="20190901001200 -0300" channel="HBO SIGNATURE">
-    <title lang="pt">Além da Morte</title>
+  <programme start="20190902181700 -0300" stop="20190902200000 -0300" channel="HBO FAMILY">
+    <title lang="pt">Onde Vivem os Monstros</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902200000 -0300" stop="20190902212800 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Que Será de Nozes?</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902212800 -0300" stop="20190902230300 -0300" channel="HBO FAMILY">
+    <title lang="pt">Show Dogs: O Agente Canino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902230300 -0300" stop="20190903003100 -0300" channel="HBO FAMILY">
+    <title lang="pt">O Gigante de Ferro</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -4268,6 +4318,100 @@
   </programme>
   <programme start="20190901220000 -0300" stop="20190902000100 -0300" channel="HBO SIGNATURE">
     <title lang="pt">O Conto</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902000100 -0300" stop="20190902022000 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">The Normal Heart</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902022000 -0300" stop="20190902041000 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Closer</title>
+    <sub-title lang="pt">Perto Demais</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902041000 -0300" stop="20190902060400 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">O Segredo de Berlim</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902060400 -0300" stop="20190902073400 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Qual O Meu Nome: Muhammad Ali</title>
+    <sub-title lang="pt">Parte 1</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902073400 -0300" stop="20190902085700 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Qual O Meu Nome: Muhammad Ali</title>
+    <sub-title lang="pt">Parte 2</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902085700 -0300" stop="20190902110800 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">O Espião Que Sabia Demais</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902110800 -0300" stop="20190902130100 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Confirmação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902130100 -0300" stop="20190902144300 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Brexit</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902144300 -0300" stop="20190902161500 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Chernobyl</title>
+    <sub-title lang="pt">Sinta A Radiação</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902161500 -0300" stop="20190902171800 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Chernobyl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902171800 -0300" stop="20190902182700 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Chernobyl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902182700 -0300" stop="20190902193300 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Chernobyl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902193300 -0300" stop="20190902204200 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Chernobyl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902204200 -0300" stop="20190902230300 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Chernobyl</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902230300 -0300" stop="20190903005200 -0300" channel="HBO SIGNATURE">
+    <title lang="pt">Meu Jantar com Hervé</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>

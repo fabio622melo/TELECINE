@@ -4,6 +4,10 @@
     <display-name lang="pt">TELECINE ACTION</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
+  <channel id="TELECINE FUN">
+    <display-name lang="pt">TELECINE FUN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
   <channel id="TELECINE PIPOCA">
     <display-name lang="pt">TELECINE PIPOCA</display-name>
     <url>http://www.netcombo.com.br</url>
@@ -148,17 +152,17 @@
     <display-name lang="pt">BOOMERANG</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="SPORTV">
-    <display-name lang="pt">SPORTV</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="SporTV 3 HD">
+    <display-name lang="pt">ESPORTV3</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="SPORTV3">
-    <display-name lang="pt">SPORTV3</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="SPORTV2HD">
+  <channel id="SporTV 2 HD">
     <display-name lang="pt">ESPORTV2HD</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV HD">
+    <display-name lang="pt">ESPORTV</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
   <programme start="20190901000500 -0300" stop="20190901015000 -0300" channel="TELECINE ACTION">
     <title lang="pt">Blitz</title>
@@ -311,6 +315,178 @@
   </programme>
   <programme start="20190902220000 -0300" stop="20190903000500 -0300" channel="TELECINE ACTION">
     <title lang="pt">Boneco De Neve</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901014500 -0300" stop="20190901032000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Quero Ficar Com Polly</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901032000 -0300" stop="20190901052500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Duelo de Dinastias</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901052500 -0300" stop="20190901071000 -0300" channel="TELECINE FUN">
+    <title lang="pt">O Filho De Rambow</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901071000 -0300" stop="20190901084000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Marvel Rising: Guerreiros Secretos</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901084000 -0300" stop="20190901102500 -0300" channel="TELECINE FUN">
+    <title lang="pt">A Guerra Do Hamburguer</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901102500 -0300" stop="20190901120000 -0300" channel="TELECINE FUN">
+    <title lang="pt">O Retorno do Pequeno Elfo</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901120000 -0300" stop="20190901133500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Space Buddies</title>
+    <sub-title lang="pt">Uma Aventura No Espaço</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901133500 -0300" stop="20190901152000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Recém-Casados</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901152000 -0300" stop="20190901170500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Se Eu Fosse Você 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901170500 -0300" stop="20190901184000 -0300" channel="TELECINE FUN">
+    <title lang="pt">A Fuga Das Galinhas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901184000 -0300" stop="20190901202000 -0300" channel="TELECINE FUN">
+    <title lang="pt">As Apimentadas Mandando Ver</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901202000 -0300" stop="20190901220000 -0300" channel="TELECINE FUN">
+    <title lang="pt">É Fada!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901220000 -0300" stop="20190901234500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Legalmente Loira</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190901234500 -0300" stop="20190902012000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Todo Mundo Em Pânico 5</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902012000 -0300" stop="20190902030000 -0300" channel="TELECINE FUN">
+    <title lang="pt">The Little Hours</title>
+    <sub-title lang="pt">A Comédia dos Pecados</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902030000 -0300" stop="20190902044000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Sexo Delivery</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902044000 -0300" stop="20190902064000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Como Se Tornar o Pior Aluno da Escola</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902064000 -0300" stop="20190902082000 -0300" channel="TELECINE FUN">
+    <title lang="pt">A.R.C.H.I.E.</title>
+    <sub-title lang="pt">O Cão Robô</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902082000 -0300" stop="20190902100000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Spooky Buddies: A Casa Mal-Assombrada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902100000 -0300" stop="20190902113000 -0300" channel="TELECINE FUN">
+    <title lang="pt">O Comédia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902113000 -0300" stop="20190902131000 -0300" channel="TELECINE FUN">
+    <title lang="pt">O Homem Da Califórnia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902131000 -0300" stop="20190902145000 -0300" channel="TELECINE FUN">
+    <title lang="pt">As Mil Palavras</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902145000 -0300" stop="20190902164000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Como Treinar o Seu Dragão 2</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902164000 -0300" stop="20190902184000 -0300" channel="TELECINE FUN">
+    <title lang="pt">O Que Esperar Quando Você Está Esperando</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902184000 -0300" stop="20190902202000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Os Caubóis do Apocalipse</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902202000 -0300" stop="20190902220000 -0300" channel="TELECINE FUN">
+    <title lang="pt">De Volta à Ilha da Imaginação</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902235000 -0300" channel="TELECINE FUN">
+    <title lang="pt">Nanny McPhee</title>
+    <sub-title lang="pt">A Babá Encantada</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902235000 -0300" stop="20190903012500 -0300" channel="TELECINE FUN">
+    <title lang="pt">Como Viajar Com O Mala Do Seu Pai</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -9620,255 +9796,6 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901001500 -0300" stop="20190901021500 -0300" channel="DISNEYXD">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901021500 -0300" stop="20190901023000 -0300" channel="DISNEYXD">
-    <title lang="pt">Star vs. as Forças do Mal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901023000 -0300" stop="20190901030000 -0300" channel="DISNEYXD">
-    <title lang="pt">Pegadinha!</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901030000 -0300" stop="20190901033000 -0300" channel="DISNEYXD">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901033000 -0300" stop="20190901040000 -0300" channel="DISNEYXD">
-    <title lang="pt">Yo Kai Watch</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901040000 -0300" stop="20190901043000 -0300" channel="DISNEYXD">
-    <title lang="pt">Kick Buttowski: Um Projeto de Dublê</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901043000 -0300" stop="20190901050000 -0300" channel="DISNEYXD">
-    <title lang="pt">Acampamento Lakebottom</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901050000 -0300" stop="20190901053000 -0300" channel="DISNEYXD">
-    <title lang="pt">Phineas e Ferb</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901053000 -0300" stop="20190901060000 -0300" channel="DISNEYXD">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901060000 -0300" stop="20190901063000 -0300" channel="DISNEYXD">
-    <title lang="pt">Star Wars: A Resistência</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901063000 -0300" stop="20190901070000 -0300" channel="DISNEYXD">
-    <title lang="pt">Fangbone</title>
-    <sub-title lang="pt">O Menino Bárbaro</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901070000 -0300" stop="20190901073000 -0300" channel="DISNEYXD">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901073000 -0300" stop="20190901074500 -0300" channel="DISNEYXD">
-    <title lang="pt">Mickey Mouse</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901074500 -0300" stop="20190901080000 -0300" channel="DISNEYXD">
-    <title lang="pt">Mickey Mouse</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901080000 -0300" stop="20190901083000 -0300" channel="DISNEYXD">
-    <title lang="pt">Mech-X4</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901083000 -0300" stop="20190901084500 -0300" channel="DISNEYXD">
-    <title lang="pt">Boris e Rufus</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901084500 -0300" stop="20190901090000 -0300" channel="DISNEYXD">
-    <title lang="pt">Penn Zero: Quase Herói</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901090000 -0300" stop="20190901093000 -0300" channel="DISNEYXD">
-    <title lang="pt">Marvel Spider-Man</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901093000 -0300" stop="20190901100000 -0300" channel="DISNEYXD">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901100000 -0300" stop="20190901103000 -0300" channel="DISNEYXD">
-    <title lang="pt">A Lei de Milo Murphy</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901103000 -0300" stop="20190901110000 -0300" channel="DISNEYXD">
-    <title lang="pt">Yo Kai Watch</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901110000 -0300" stop="20190901111500 -0300" channel="DISNEYXD">
-    <title lang="pt">Cupcake &amp; Dino</title>
-    <sub-title lang="pt">Serviços Gerais</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901111500 -0300" stop="20190901113000 -0300" channel="DISNEYXD">
-    <title lang="pt">Boris e Rufus</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901113000 -0300" stop="20190901120000 -0300" channel="DISNEYXD">
-    <title lang="pt">Amphibia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901120000 -0300" stop="20190901140000 -0300" channel="DISNEYXD">
-    <title lang="pt">Hércules</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901140000 -0300" stop="20190901143000 -0300" channel="DISNEYXD">
-    <title lang="pt">Os Vizinhos Green</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901143000 -0300" stop="20190901150000 -0300" channel="DISNEYXD">
-    <title lang="pt">Os Vizinhos Green</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901150000 -0300" stop="20190901153000 -0300" channel="DISNEYXD">
-    <title lang="pt">Os Vizinhos Green</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901153000 -0300" stop="20190901160000 -0300" channel="DISNEYXD">
-    <title lang="pt">Os Vizinhos Green</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901160000 -0300" stop="20190901163000 -0300" channel="DISNEYXD">
-    <title lang="pt">Os Vizinhos Green</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901163000 -0300" stop="20190901164500 -0300" channel="DISNEYXD">
-    <title lang="pt">Mickey Mouse</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901164500 -0300" stop="20190901170000 -0300" channel="DISNEYXD">
-    <title lang="pt">Mickey Mouse</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901170000 -0300" stop="20190901173000 -0300" channel="DISNEYXD">
-    <title lang="pt">Star vs. as Forças do Mal</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901173000 -0300" stop="20190901174500 -0300" channel="DISNEYXD">
-    <title lang="pt">Mickey Mouse</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901174500 -0300" stop="20190901180000 -0300" channel="DISNEYXD">
-    <title lang="pt">Mickey Mouse</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901180000 -0300" stop="20190901200000 -0300" channel="DISNEYXD">
-    <title lang="pt">Hércules</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901200000 -0300" stop="20190901203000 -0300" channel="DISNEYXD">
-    <title lang="pt">Amphibia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901203000 -0300" stop="20190901210000 -0300" channel="DISNEYXD">
-    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901210000 -0300" stop="20190901213000 -0300" channel="DISNEYXD">
-    <title lang="pt">Os Vizinhos Green</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901213000 -0300" stop="20190901220000 -0300" channel="DISNEYXD">
-    <title lang="pt">Operação Big Hero</title>
-    <sub-title lang="pt">A Série</sub-title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901220000 -0300" stop="20190902000000 -0300" channel="DISNEYXD">
-    <title lang="pt">Força G</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
   <programme start="20190902000000 -0300" stop="20190902020000 -0300" channel="DISNEYXD">
     <title lang="pt">Querem Acabar Comigo</title>
     <star-rating>
@@ -10143,290 +10070,302 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901000000 -0300" stop="20190901003000 -0300" channel="NICKJR">
-    <title lang="pt">Mutt &amp; Stuff</title>
+  <programme start="20190903000000 -0300" stop="20190903003000 -0300" channel="DISNEYXD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901003000 -0300" stop="20190901010000 -0300" channel="NICKJR">
-    <title lang="pt">Mutt &amp; Stuff</title>
+  <programme start="20190903003000 -0300" stop="20190903010000 -0300" channel="DISNEYXD">
+    <title lang="pt">Os Vizinhos Green</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901010000 -0300" stop="20190901013000 -0300" channel="NICKJR">
-    <title lang="pt">Dora e seus Amigos na Cidade</title>
+  <programme start="20190903010000 -0300" stop="20190903013000 -0300" channel="DISNEYXD">
+    <title lang="pt">Pa, Pam, Kapow!</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901013000 -0300" stop="20190901020000 -0300" channel="NICKJR">
-    <title lang="pt">Dora e seus Amigos na Cidade</title>
+  <programme start="20190903013000 -0300" stop="20190903020000 -0300" channel="DISNEYXD">
+    <title lang="pt">Penn Zero: Quase Herói</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901020000 -0300" stop="20190901023000 -0300" channel="NICKJR">
-    <title lang="pt">Regal Academy</title>
+  <programme start="20190903020000 -0300" stop="20190903023000 -0300" channel="DISNEYXD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901023000 -0300" stop="20190901030000 -0300" channel="NICKJR">
-    <title lang="pt">Regal Academy</title>
+  <programme start="20190903023000 -0300" stop="20190903030000 -0300" channel="DISNEYXD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901030000 -0300" stop="20190901033000 -0300" channel="NICKJR">
-    <title lang="pt">Dora, a Aventureira</title>
+  <programme start="20190903030000 -0300" stop="20190903033000 -0300" channel="DISNEYXD">
+    <title lang="pt">A Lei de Milo Murphy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901033000 -0300" stop="20190901040000 -0300" channel="NICKJR">
-    <title lang="pt">Dora, a Aventureira</title>
+  <programme start="20190903033000 -0300" stop="20190903040000 -0300" channel="DISNEYXD">
+    <title lang="pt">Phineas e Ferb</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901040000 -0300" stop="20190901043000 -0300" channel="NICKJR">
-    <title lang="pt">O Dia Que Henry Encontrou</title>
+  <programme start="20190903040000 -0300" stop="20190903043000 -0300" channel="DISNEYXD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901043000 -0300" stop="20190901050000 -0300" channel="NICKJR">
-    <title lang="pt">O Dia Que Henry Encontrou</title>
+  <programme start="20190903043000 -0300" stop="20190903050000 -0300" channel="DISNEYXD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901050000 -0300" stop="20190901053000 -0300" channel="NICKJR">
-    <title lang="pt">Bubble Guppies</title>
+  <programme start="20190903050000 -0300" stop="20190903053000 -0300" channel="DISNEYXD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901053000 -0300" stop="20190901060000 -0300" channel="NICKJR">
-    <title lang="pt">Bubble Guppies</title>
+  <programme start="20190903053000 -0300" stop="20190903060000 -0300" channel="DISNEYXD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901060000 -0300" stop="20190901063000 -0300" channel="NICKJR">
-    <title lang="pt">Patrulha Canina</title>
+  <programme start="20190903060000 -0300" stop="20190903063000 -0300" channel="DISNEYXD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901063000 -0300" stop="20190901070000 -0300" channel="NICKJR">
-    <title lang="pt">Patrulha Canina</title>
+  <programme start="20190903063000 -0300" stop="20190903070000 -0300" channel="DISNEYXD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901070000 -0300" stop="20190901073000 -0300" channel="NICKJR">
-    <title lang="pt">Top Wing</title>
+  <programme start="20190903070000 -0300" stop="20190903073000 -0300" channel="DISNEYXD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901073000 -0300" stop="20190901080000 -0300" channel="NICKJR">
-    <title lang="pt">Top Wing</title>
+  <programme start="20190903073000 -0300" stop="20190903080000 -0300" channel="DISNEYXD">
+    <title lang="pt">Yo Kai Watch</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901080000 -0300" stop="20190901083000 -0300" channel="NICKJR">
-    <title lang="pt">Kid-E-Cats</title>
+  <programme start="20190903080000 -0300" stop="20190903083000 -0300" channel="DISNEYXD">
+    <title lang="pt">Marvel Spider-Man</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901083000 -0300" stop="20190901090000 -0300" channel="NICKJR">
-    <title lang="pt">Butterbean's Cafe</title>
+  <programme start="20190903083000 -0300" stop="20190903090000 -0300" channel="DISNEYXD">
+    <title lang="pt">Phineas e Ferb</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901090000 -0300" stop="20190901093000 -0300" channel="NICKJR">
-    <title lang="pt">Nella, Uma Princesa Corajosa</title>
+  <programme start="20190903090000 -0300" stop="20190903091500 -0300" channel="DISNEYXD">
+    <title lang="pt">Boris e Rufus</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901093000 -0300" stop="20190901100000 -0300" channel="NICKJR">
-    <title lang="pt">Sunny Day</title>
+  <programme start="20190903091500 -0300" stop="20190903093000 -0300" channel="DISNEYXD">
+    <title lang="pt">Penn Zero: Quase Herói</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901100000 -0300" stop="20190901103000 -0300" channel="NICKJR">
-    <title lang="pt">Sunny Day</title>
+  <programme start="20190903093000 -0300" stop="20190903100000 -0300" channel="DISNEYXD">
+    <title lang="pt">Kick Buttowski: Um Projeto de Dublê</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901103000 -0300" stop="20190901110000 -0300" channel="NICKJR">
-    <title lang="pt">Kiva Pode Fazer</title>
+  <programme start="20190903100000 -0300" stop="20190903101500 -0300" channel="DISNEYXD">
+    <title lang="pt">A Lei de Milo Murphy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901110000 -0300" stop="20190901113000 -0300" channel="NICKJR">
-    <title lang="pt">Kid-E-Cats</title>
+  <programme start="20190903101500 -0300" stop="20190903103000 -0300" channel="DISNEYXD">
+    <title lang="pt">Acampamento Lakebottom</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901113000 -0300" stop="20190901120000 -0300" channel="NICKJR">
-    <title lang="pt">Abby Hatcher</title>
+  <programme start="20190903103000 -0300" stop="20190903110000 -0300" channel="DISNEYXD">
+    <title lang="pt">Amphibia</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901120000 -0300" stop="20190901123000 -0300" channel="NICKJR">
-    <title lang="pt">Abby Hatcher</title>
+  <programme start="20190903110000 -0300" stop="20190903113000 -0300" channel="DISNEYXD">
+    <title lang="pt">Os Vizinhos Green</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901123000 -0300" stop="20190901130000 -0300" channel="NICKJR">
-    <title lang="pt">Shimmer &amp; Shine</title>
+  <programme start="20190903113000 -0300" stop="20190903120000 -0300" channel="DISNEYXD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901130000 -0300" stop="20190901133000 -0300" channel="NICKJR">
-    <title lang="pt">Shimmer &amp; Shine</title>
+  <programme start="20190903120000 -0300" stop="20190903123000 -0300" channel="DISNEYXD">
+    <title lang="pt">A Lei de Milo Murphy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901133000 -0300" stop="20190901140000 -0300" channel="NICKJR">
-    <title lang="pt">Patrulha Canina</title>
+  <programme start="20190903123000 -0300" stop="20190903130000 -0300" channel="DISNEYXD">
+    <title lang="pt">Os Vizinhos Green</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901140000 -0300" stop="20190901143000 -0300" channel="NICKJR">
-    <title lang="pt">Patrulha Canina</title>
+  <programme start="20190903130000 -0300" stop="20190903133000 -0300" channel="DISNEYXD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901143000 -0300" stop="20190901150000 -0300" channel="NICKJR">
-    <title lang="pt">Blaze and The Monster Machines</title>
+  <programme start="20190903133000 -0300" stop="20190903134500 -0300" channel="DISNEYXD">
+    <title lang="pt">Cupcake &amp; Dino</title>
+    <sub-title lang="pt">Serviços Gerais</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901150000 -0300" stop="20190901153000 -0300" channel="NICKJR">
-    <title lang="pt">Blaze and The Monster Machines</title>
+  <programme start="20190903134500 -0300" stop="20190903140000 -0300" channel="DISNEYXD">
+    <title lang="pt">Boris e Rufus</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901153000 -0300" stop="20190901160000 -0300" channel="NICKJR">
-    <title lang="pt">Top Wing</title>
+  <programme start="20190903140000 -0300" stop="20190903143000 -0300" channel="DISNEYXD">
+    <title lang="pt">Yo Kai Watch</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901160000 -0300" stop="20190901163000 -0300" channel="NICKJR">
-    <title lang="pt">Top Wing</title>
+  <programme start="20190903143000 -0300" stop="20190903144500 -0300" channel="DISNEYXD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901163000 -0300" stop="20190901170000 -0300" channel="NICKJR">
-    <title lang="pt">Shimmer &amp; Shine</title>
+  <programme start="20190903144500 -0300" stop="20190903150000 -0300" channel="DISNEYXD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901170000 -0300" stop="20190901173000 -0300" channel="NICKJR">
-    <title lang="pt">Shimmer &amp; Shine</title>
+  <programme start="20190903150000 -0300" stop="20190903164000 -0300" channel="DISNEYXD">
+    <title lang="pt">Tarzan</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901173000 -0300" stop="20190901180000 -0300" channel="NICKJR">
-    <title lang="pt">Dora, a Aventureira</title>
+  <programme start="20190903164000 -0300" stop="20190903170000 -0300" channel="DISNEYXD">
+    <title lang="pt">Larva</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901180000 -0300" stop="20190901183000 -0300" channel="NICKJR">
-    <title lang="pt">Dora, a Aventureira</title>
+  <programme start="20190903170000 -0300" stop="20190903173000 -0300" channel="DISNEYXD">
+    <title lang="pt">A Lei de Milo Murphy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901183000 -0300" stop="20190901190000 -0300" channel="NICKJR">
-    <title lang="pt">Universo Z</title>
+  <programme start="20190903173000 -0300" stop="20190903174500 -0300" channel="DISNEYXD">
+    <title lang="pt">Cupcake &amp; Dino</title>
+    <sub-title lang="pt">Serviços Gerais</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901190000 -0300" stop="20190901193000 -0300" channel="NICKJR">
-    <title lang="pt">Blaze and The Monster Machines</title>
+  <programme start="20190903174500 -0300" stop="20190903180000 -0300" channel="DISNEYXD">
+    <title lang="pt">Boris e Rufus</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901193000 -0300" stop="20190901200000 -0300" channel="NICKJR">
-    <title lang="pt">Blaze and The Monster Machines</title>
+  <programme start="20190903180000 -0300" stop="20190903183000 -0300" channel="DISNEYXD">
+    <title lang="pt">Os Vizinhos Green</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901200000 -0300" stop="20190901203000 -0300" channel="NICKJR">
-    <title lang="pt">Blaze and The Monster Machines</title>
+  <programme start="20190903183000 -0300" stop="20190903190000 -0300" channel="DISNEYXD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901203000 -0300" stop="20190901210000 -0300" channel="NICKJR">
-    <title lang="pt">Blaze and The Monster Machines</title>
+  <programme start="20190903190000 -0300" stop="20190903193000 -0300" channel="DISNEYXD">
+    <title lang="pt">Amphibia</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901210000 -0300" stop="20190901213000 -0300" channel="NICKJR">
-    <title lang="pt">Blaze and The Monster Machines</title>
+  <programme start="20190903193000 -0300" stop="20190903200000 -0300" channel="DISNEYXD">
+    <title lang="pt">Juacas</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901213000 -0300" stop="20190901220000 -0300" channel="NICKJR">
-    <title lang="pt">Blaze and The Monster Machines</title>
+  <programme start="20190903200000 -0300" stop="20190903201500 -0300" channel="DISNEYXD">
+    <title lang="pt">A Lei de Milo Murphy</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901220000 -0300" stop="20190901223000 -0300" channel="NICKJR">
-    <title lang="pt">Patrulha Canina</title>
+  <programme start="20190903201500 -0300" stop="20190903203000 -0300" channel="DISNEYXD">
+    <title lang="pt">Star vs. as Forças do Mal</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901223000 -0300" stop="20190901230000 -0300" channel="NICKJR">
-    <title lang="pt">Patrulha Canina</title>
+  <programme start="20190903203000 -0300" stop="20190903210000 -0300" channel="DISNEYXD">
+    <title lang="pt">Operação Big Hero</title>
+    <sub-title lang="pt">A Série</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901230000 -0300" stop="20190901233000 -0300" channel="NICKJR">
-    <title lang="pt">Patrulha Canina</title>
+  <programme start="20190903210000 -0300" stop="20190903230000 -0300" channel="DISNEYXD">
+    <title lang="pt">Tarzan</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901233000 -0300" stop="20190902000000 -0300" channel="NICKJR">
-    <title lang="pt">Patrulha Canina</title>
+  <programme start="20190903230000 -0300" stop="20190903233000 -0300" channel="DISNEYXD">
+    <title lang="pt">Os Vizinhos Green</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903233000 -0300" stop="20190904000000 -0300" channel="DISNEYXD">
+    <title lang="pt">Gravity Falls: Um Verão de Mistérios</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -10719,896 +10658,290 @@
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901000100 -0300" stop="20190901002400 -0300" channel="BOOMERANG">
-    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  <programme start="20190903000000 -0300" stop="20190903003000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901002400 -0300" stop="20190901003200 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma Da Pantera Cor De Rosa</title>
+  <programme start="20190903003000 -0300" stop="20190903010000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901003200 -0300" stop="20190901003800 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
+  <programme start="20190903010000 -0300" stop="20190903013000 -0300" channel="NICKJR">
+    <title lang="pt">Blaze and The Monster Machines</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901003800 -0300" stop="20190901004400 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
+  <programme start="20190903013000 -0300" stop="20190903020000 -0300" channel="NICKJR">
+    <title lang="pt">Blaze and The Monster Machines</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901004400 -0300" stop="20190901005000 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
+  <programme start="20190903020000 -0300" stop="20190903023000 -0300" channel="NICKJR">
+    <title lang="pt">Rusty Rivets</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901005000 -0300" stop="20190901005600 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
+  <programme start="20190903023000 -0300" stop="20190903030000 -0300" channel="NICKJR">
+    <title lang="pt">Rusty Rivets</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901005600 -0300" stop="20190901010200 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
+  <programme start="20190903030000 -0300" stop="20190903033000 -0300" channel="NICKJR">
+    <title lang="pt">Kiva Pode Fazer</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901010200 -0300" stop="20190901011400 -0300" channel="BOOMERANG">
-    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  <programme start="20190903033000 -0300" stop="20190903040000 -0300" channel="NICKJR">
+    <title lang="pt">Kiva Pode Fazer</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901011400 -0300" stop="20190901012600 -0300" channel="BOOMERANG">
-    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  <programme start="20190903040000 -0300" stop="20190903043000 -0300" channel="NICKJR">
+    <title lang="pt">Shimmer &amp; Shine</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901012600 -0300" stop="20190901013800 -0300" channel="BOOMERANG">
-    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  <programme start="20190903043000 -0300" stop="20190903050000 -0300" channel="NICKJR">
+    <title lang="pt">Shimmer &amp; Shine</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901013800 -0300" stop="20190901015000 -0300" channel="BOOMERANG">
-    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  <programme start="20190903050000 -0300" stop="20190903053000 -0300" channel="NICKJR">
+    <title lang="pt">Dora, a Aventureira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901015000 -0300" stop="20190901020200 -0300" channel="BOOMERANG">
-    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+  <programme start="20190903053000 -0300" stop="20190903060000 -0300" channel="NICKJR">
+    <title lang="pt">Dora, a Aventureira</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901020200 -0300" stop="20190901022500 -0300" channel="BOOMERANG">
-    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  <programme start="20190903060000 -0300" stop="20190903063000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901022500 -0300" stop="20190901024900 -0300" channel="BOOMERANG">
-    <title lang="pt">Que Legal, Scooby-Doo!</title>
+  <programme start="20190903063000 -0300" stop="20190903070000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901024900 -0300" stop="20190901030100 -0300" channel="BOOMERANG">
-    <title lang="pt">George, O Rei da Floresta</title>
+  <programme start="20190903070000 -0300" stop="20190903073000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901030100 -0300" stop="20190901031400 -0300" channel="BOOMERANG">
-    <title lang="pt">George, O Rei da Floresta</title>
+  <programme start="20190903073000 -0300" stop="20190903080000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901031400 -0300" stop="20190901032500 -0300" channel="BOOMERANG">
-    <title lang="pt">George, O Rei da Floresta</title>
+  <programme start="20190903080000 -0300" stop="20190903083000 -0300" channel="NICKJR">
+    <title lang="pt">Kid-E-Cats</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901032500 -0300" stop="20190901033800 -0300" channel="BOOMERANG">
-    <title lang="pt">George, O Rei da Floresta</title>
+  <programme start="20190903083000 -0300" stop="20190903090000 -0300" channel="NICKJR">
+    <title lang="pt">Top Wing</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901033800 -0300" stop="20190901034900 -0300" channel="BOOMERANG">
-    <title lang="pt">George, O Rei da Floresta</title>
+  <programme start="20190903090000 -0300" stop="20190903093000 -0300" channel="NICKJR">
+    <title lang="pt">Top Wing</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901034900 -0300" stop="20190901040100 -0300" channel="BOOMERANG">
-    <title lang="pt">George, O Rei da Floresta</title>
+  <programme start="20190903093000 -0300" stop="20190903100000 -0300" channel="NICKJR">
+    <title lang="pt">Top Wing</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901040100 -0300" stop="20190901041300 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  <programme start="20190903100000 -0300" stop="20190903103000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901041300 -0300" stop="20190901042400 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+  <programme start="20190903103000 -0300" stop="20190903110000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901042400 -0300" stop="20190901043100 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+  <programme start="20190903110000 -0300" stop="20190903113000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901043100 -0300" stop="20190901043900 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+  <programme start="20190903113000 -0300" stop="20190903120000 -0300" channel="NICKJR">
+    <title lang="pt">Universo Z</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901043900 -0300" stop="20190901044600 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+  <programme start="20190903120000 -0300" stop="20190903123000 -0300" channel="NICKJR">
+    <title lang="pt">Sunny Day</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901044600 -0300" stop="20190901045300 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+  <programme start="20190903123000 -0300" stop="20190903130000 -0300" channel="NICKJR">
+    <title lang="pt">Sunny Day</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901045300 -0300" stop="20190901050500 -0300" channel="BOOMERANG">
-    <title lang="pt">Inspetor Bugiganga</title>
+  <programme start="20190903130000 -0300" stop="20190903133000 -0300" channel="NICKJR">
+    <title lang="pt">Abby Hatcher</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901050500 -0300" stop="20190901051800 -0300" channel="BOOMERANG">
-    <title lang="pt">Inspetor Bugiganga</title>
+  <programme start="20190903133000 -0300" stop="20190903140000 -0300" channel="NICKJR">
+    <title lang="pt">Abby Hatcher</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901051800 -0300" stop="20190901053000 -0300" channel="BOOMERANG">
-    <title lang="pt">Inspetor Bugiganga</title>
+  <programme start="20190903140000 -0300" stop="20190903143000 -0300" channel="NICKJR">
+    <title lang="pt">Butterbean's Cafe</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901053000 -0300" stop="20190901053700 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
+  <programme start="20190903143000 -0300" stop="20190903150000 -0300" channel="NICKJR">
+    <title lang="pt">Butterbean's Cafe</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901053700 -0300" stop="20190901054500 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
+  <programme start="20190903150000 -0300" stop="20190903153000 -0300" channel="NICKJR">
+    <title lang="pt">Dora e seus Amigos na Cidade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901054500 -0300" stop="20190901055200 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
+  <programme start="20190903153000 -0300" stop="20190903160000 -0300" channel="NICKJR">
+    <title lang="pt">Dora e seus Amigos na Cidade</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901055200 -0300" stop="20190901060000 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
+  <programme start="20190903160000 -0300" stop="20190903163000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901060000 -0300" stop="20190901060400 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
+  <programme start="20190903163000 -0300" stop="20190903170000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901060400 -0300" stop="20190901061100 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
+  <programme start="20190903170000 -0300" stop="20190903173000 -0300" channel="NICKJR">
+    <title lang="pt">Top Wing</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901061100 -0300" stop="20190901062800 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
+  <programme start="20190903173000 -0300" stop="20190903180000 -0300" channel="NICKJR">
+    <title lang="pt">Top Wing</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901062800 -0300" stop="20190901063000 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
+  <programme start="20190903180000 -0300" stop="20190903183000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901063000 -0300" stop="20190901063800 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
+  <programme start="20190903183000 -0300" stop="20190903190000 -0300" channel="NICKJR">
+    <title lang="pt">Patrulha Canina</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901063800 -0300" stop="20190901065100 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
+  <programme start="20190903190000 -0300" stop="20190903193000 -0300" channel="NICKJR">
+    <title lang="pt">Blaze and The Monster Machines</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901065100 -0300" stop="20190901065800 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
+  <programme start="20190903193000 -0300" stop="20190903200000 -0300" channel="NICKJR">
+    <title lang="pt">Blaze and The Monster Machines</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901065800 -0300" stop="20190901070000 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
+  <programme start="20190903200000 -0300" stop="20190903203000 -0300" channel="NICKJR">
+    <title lang="pt">Rainbow Rangers</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901070000 -0300" stop="20190901070800 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
+  <programme start="20190903203000 -0300" stop="20190903210000 -0300" channel="NICKJR">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901070800 -0300" stop="20190901072400 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
+  <programme start="20190903210000 -0300" stop="20190903213000 -0300" channel="NICKJR">
+    <title lang="pt">Mutt &amp; Stuff</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901072400 -0300" stop="20190901073000 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
+  <programme start="20190903213000 -0300" stop="20190903220000 -0300" channel="NICKJR">
+    <title lang="pt">Mutt &amp; Stuff</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901073000 -0300" stop="20190901073100 -0300" channel="BOOMERANG">
-    <title lang="pt">Sítio do Picapau Amarelo</title>
+  <programme start="20190903220000 -0300" stop="20190903223000 -0300" channel="NICKJR">
+    <title lang="pt">Bubble Guppies</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901073100 -0300" stop="20190901074100 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
+  <programme start="20190903223000 -0300" stop="20190903230000 -0300" channel="NICKJR">
+    <title lang="pt">Bubble Guppies</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901074100 -0300" stop="20190901075800 -0300" channel="BOOMERANG">
-    <title lang="pt">Sítio do Picapau Amarelo</title>
+  <programme start="20190903230000 -0300" stop="20190903233000 -0300" channel="NICKJR">
+    <title lang="pt">Kid-e-cats</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
   </programme>
-  <programme start="20190901075800 -0300" stop="20190901080000 -0300" channel="BOOMERANG">
-    <title lang="pt">Sítio do Picapau Amarelo</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901080000 -0300" stop="20190901080600 -0300" channel="BOOMERANG">
-    <title lang="pt">Contos da Masha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901080600 -0300" stop="20190901081200 -0300" channel="BOOMERANG">
-    <title lang="pt">Contos da Masha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901081200 -0300" stop="20190901082300 -0300" channel="BOOMERANG">
-    <title lang="pt">Contos da Masha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901082300 -0300" stop="20190901082900 -0300" channel="BOOMERANG">
-    <title lang="pt">Contos da Masha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901082900 -0300" stop="20190901083000 -0300" channel="BOOMERANG">
-    <title lang="pt">Contos da Masha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901083000 -0300" stop="20190901083800 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901083800 -0300" stop="20190901084700 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901084700 -0300" stop="20190901090100 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901090100 -0300" stop="20190901091000 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901091000 -0300" stop="20190901091700 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901091700 -0300" stop="20190901093000 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901093000 -0300" stop="20190901093100 -0300" channel="BOOMERANG">
-    <title lang="pt">Contos Assustadores da Masha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901093100 -0300" stop="20190901093600 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901093600 -0300" stop="20190901093900 -0300" channel="BOOMERANG">
-    <title lang="pt">Contos Assustadores da Masha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901093900 -0300" stop="20190901094700 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901094700 -0300" stop="20190901094800 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901094800 -0300" stop="20190901095400 -0300" channel="BOOMERANG">
-    <title lang="pt">Contos Assustadores da Masha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901095400 -0300" stop="20190901095500 -0300" channel="BOOMERANG">
-    <title lang="pt">Contos Assustadores da Masha</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901095500 -0300" stop="20190901100000 -0300" channel="BOOMERANG">
-    <title lang="pt">The Happos Family</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901100000 -0300" stop="20190901101500 -0300" channel="BOOMERANG">
-    <title lang="pt">Mighty Mike</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901101500 -0300" stop="20190901102300 -0300" channel="BOOMERANG">
-    <title lang="pt">Weeboom</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901102300 -0300" stop="20190901103000 -0300" channel="BOOMERANG">
-    <title lang="pt">Weeboom</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901103000 -0300" stop="20190901104100 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901104100 -0300" stop="20190901105500 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901105500 -0300" stop="20190901105800 -0300" channel="BOOMERANG">
-    <title lang="pt">Oddbods</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901105800 -0300" stop="20190901110000 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901110000 -0300" stop="20190901110700 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901110700 -0300" stop="20190901111400 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901111400 -0300" stop="20190901112700 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901112700 -0300" stop="20190901113000 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901113000 -0300" stop="20190901113400 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901113400 -0300" stop="20190901113700 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901113700 -0300" stop="20190901114500 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901114500 -0300" stop="20190901115200 -0300" channel="BOOMERANG">
-    <title lang="pt">Zuzubalândia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901115200 -0300" stop="20190901115900 -0300" channel="BOOMERANG">
-    <title lang="pt">Zuzubalândia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901115900 -0300" stop="20190901120000 -0300" channel="BOOMERANG">
-    <title lang="pt">Zuzubalândia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901120000 -0300" stop="20190901122000 -0300" channel="BOOMERANG">
-    <title lang="pt">Que Legal, Scooby-Doo!</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901122000 -0300" stop="20190901123000 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901123000 -0300" stop="20190901123700 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901123700 -0300" stop="20190901124400 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901124400 -0300" stop="20190901125700 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901125700 -0300" stop="20190901130000 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901130000 -0300" stop="20190901130400 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901130400 -0300" stop="20190901131800 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901131800 -0300" stop="20190901133000 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901133000 -0300" stop="20190901134800 -0300" channel="BOOMERANG">
-    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901134800 -0300" stop="20190901154500 -0300" channel="BOOMERANG">
-    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901154500 -0300" stop="20190901155300 -0300" channel="BOOMERANG">
-    <title lang="pt">Oddbods</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901155300 -0300" stop="20190901160000 -0300" channel="BOOMERANG">
-    <title lang="pt">Oddbods</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901160000 -0300" stop="20190901160100 -0300" channel="BOOMERANG">
-    <title lang="pt">Barbie Dreamhouse Adventures</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901160100 -0300" stop="20190901162000 -0300" channel="BOOMERANG">
-    <title lang="pt">Oddbods</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901162000 -0300" stop="20190901163000 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901163000 -0300" stop="20190901165800 -0300" channel="BOOMERANG">
-    <title lang="pt">Lego Friends</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901165800 -0300" stop="20190901170000 -0300" channel="BOOMERANG">
-    <title lang="pt">Lego Friends</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901170000 -0300" stop="20190901171500 -0300" channel="BOOMERANG">
-    <title lang="pt">Monster High: As Aventuras do Esquadrão Monstro</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901171500 -0300" stop="20190901172200 -0300" channel="BOOMERANG">
-    <title lang="pt">Zuzubalândia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901172200 -0300" stop="20190901173500 -0300" channel="BOOMERANG">
-    <title lang="pt">Zuzubalândia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901173500 -0300" stop="20190901174000 -0300" channel="BOOMERANG">
-    <title lang="pt">Zuzubalândia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901174000 -0300" stop="20190901174200 -0300" channel="BOOMERANG">
-    <title lang="pt">The Happos Family</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901174200 -0300" stop="20190901174500 -0300" channel="BOOMERANG">
-    <title lang="pt">Zuzubalândia</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901174500 -0300" stop="20190901180000 -0300" channel="BOOMERANG">
-    <title lang="pt">As Meninas Superpoderosas</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901180000 -0300" stop="20190901181700 -0300" channel="BOOMERANG">
-    <title lang="pt">Corrida Maluca</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901181700 -0300" stop="20190901183000 -0300" channel="BOOMERANG">
-    <title lang="pt">Corrida Maluca</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901183000 -0300" stop="20190901184700 -0300" channel="BOOMERANG">
-    <title lang="pt">Dorothy e o Mágico de Oz</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901184700 -0300" stop="20190901190000 -0300" channel="BOOMERANG">
-    <title lang="pt">Dorothy e o Mágico de Oz</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901190000 -0300" stop="20190901190800 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901190800 -0300" stop="20190901192100 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901192100 -0300" stop="20190901192500 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901192500 -0300" stop="20190901192800 -0300" channel="BOOMERANG">
-    <title lang="pt">The Happos Family</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901192800 -0300" stop="20190901193000 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901193000 -0300" stop="20190901195000 -0300" channel="BOOMERANG">
-    <title lang="pt">Que Legal, Scooby-Doo!</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901195000 -0300" stop="20190901200000 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901200000 -0300" stop="20190901200800 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901200800 -0300" stop="20190901202200 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901202200 -0300" stop="20190901203000 -0300" channel="BOOMERANG">
-    <title lang="pt">Masha e o Urso</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901203000 -0300" stop="20190901204100 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901204100 -0300" stop="20190901205800 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901205800 -0300" stop="20190901210000 -0300" channel="BOOMERANG">
-    <title lang="pt">Mr. Bean</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901210000 -0300" stop="20190901210800 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901210800 -0300" stop="20190901212100 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901212100 -0300" stop="20190901212900 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901212900 -0300" stop="20190901213000 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901213000 -0300" stop="20190901213600 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901213600 -0300" stop="20190901214800 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901214800 -0300" stop="20190901215400 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901215400 -0300" stop="20190901220000 -0300" channel="BOOMERANG">
-    <title lang="pt">New Looney Tunes</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901220000 -0300" stop="20190901221800 -0300" channel="BOOMERANG">
-    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901221800 -0300" stop="20190901223000 -0300" channel="BOOMERANG">
-    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901223000 -0300" stop="20190901224100 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901224100 -0300" stop="20190901225500 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901225500 -0300" stop="20190901225800 -0300" channel="BOOMERANG">
-    <title lang="pt">Oddbods</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901225800 -0300" stop="20190901230000 -0300" channel="BOOMERANG">
-    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901230000 -0300" stop="20190901230700 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901230700 -0300" stop="20190901231400 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901231400 -0300" stop="20190901232700 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901232700 -0300" stop="20190901233000 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901233000 -0300" stop="20190901233400 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901233400 -0300" stop="20190901233800 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901233800 -0300" stop="20190901235100 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901235100 -0300" stop="20190901235800 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
-    <star-rating>
-      <value>1.0</value>
-    </star-rating>
-  </programme>
-  <programme start="20190901235800 -0300" stop="20190902000000 -0300" channel="BOOMERANG">
-    <title lang="pt">O Show de Tom e Jerry</title>
+  <programme start="20190903233000 -0300" stop="20190904000000 -0300" channel="NICKJR">
+    <title lang="pt">Kid-E-Cats</title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
@@ -12515,6 +11848,1627 @@
   </programme>
   <programme start="20190902235700 -0300" stop="20190903000000 -0300" channel="BOOMERANG">
     <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903000000 -0300" stop="20190903000400 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903000400 -0300" stop="20190903000800 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903000800 -0300" stop="20190903001500 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903001500 -0300" stop="20190903002900 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903002900 -0300" stop="20190903003600 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903003600 -0300" stop="20190903004300 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903004300 -0300" stop="20190903005700 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903005700 -0300" stop="20190903010000 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903010000 -0300" stop="20190903010400 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903010400 -0300" stop="20190903011200 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903011200 -0300" stop="20190903012900 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903012900 -0300" stop="20190903014100 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903014100 -0300" stop="20190903015800 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903015800 -0300" stop="20190903020000 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903020000 -0300" stop="20190903022900 -0300" channel="BOOMERANG">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903022900 -0300" stop="20190903030000 -0300" channel="BOOMERANG">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903030000 -0300" stop="20190903031200 -0300" channel="BOOMERANG">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903031200 -0300" stop="20190903032900 -0300" channel="BOOMERANG">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903032900 -0300" stop="20190903034100 -0300" channel="BOOMERANG">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903034100 -0300" stop="20190903035800 -0300" channel="BOOMERANG">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903035800 -0300" stop="20190903040000 -0300" channel="BOOMERANG">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903040000 -0300" stop="20190903040900 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903040900 -0300" stop="20190903041700 -0300" channel="BOOMERANG">
+    <title lang="pt">George, O Rei da Floresta</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903041700 -0300" stop="20190903043000 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903043000 -0300" stop="20190903043700 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903043700 -0300" stop="20190903045000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903045000 -0300" stop="20190903045700 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903045700 -0300" stop="20190903050000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903050000 -0300" stop="20190903051200 -0300" channel="BOOMERANG">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903051200 -0300" stop="20190903053000 -0300" channel="BOOMERANG">
+    <title lang="pt">Inspetor Bugiganga</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903053000 -0300" stop="20190903053700 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903053700 -0300" stop="20190903054400 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903054400 -0300" stop="20190903055700 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903055700 -0300" stop="20190903060000 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903060000 -0300" stop="20190903060400 -0300" channel="BOOMERANG">
+    <title lang="pt">Marcus Level</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903060400 -0300" stop="20190903061300 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903061300 -0300" stop="20190903063000 -0300" channel="BOOMERANG">
+    <title lang="pt">Marcus Level</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903063000 -0300" stop="20190903063100 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903063100 -0300" stop="20190903063700 -0300" channel="BOOMERANG">
+    <title lang="pt">Marcus Level</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903063700 -0300" stop="20190903065000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903065000 -0300" stop="20190903065700 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903065700 -0300" stop="20190903070000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903070000 -0300" stop="20190903070800 -0300" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903070800 -0300" stop="20190903071500 -0300" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903071500 -0300" stop="20190903073000 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903073000 -0300" stop="20190903074800 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903074800 -0300" stop="20190903080000 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903080000 -0300" stop="20190903081800 -0300" channel="BOOMERANG">
+    <title lang="pt">Meu Cavaleiro e Eu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903081800 -0300" stop="20190903083000 -0300" channel="BOOMERANG">
+    <title lang="pt">Meu Cavaleiro e Eu</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903083000 -0300" stop="20190903083700 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903083700 -0300" stop="20190903084400 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903084400 -0300" stop="20190903085700 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903085700 -0300" stop="20190903090000 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903090000 -0300" stop="20190903090400 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903090400 -0300" stop="20190903090900 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903090900 -0300" stop="20190903091700 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903091700 -0300" stop="20190903093000 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903093000 -0300" stop="20190903093100 -0300" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903093100 -0300" stop="20190903093800 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903093800 -0300" stop="20190903094500 -0300" channel="BOOMERANG">
+    <title lang="pt">Oddbods</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903094500 -0300" stop="20190903095300 -0300" channel="BOOMERANG">
+    <title lang="pt">Oggy e As Baratas Tontas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903095300 -0300" stop="20190903095500 -0300" channel="BOOMERANG">
+    <title lang="pt">Oggy e As Baratas Tontas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903095500 -0300" stop="20190903100000 -0300" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903100000 -0300" stop="20190903101200 -0300" channel="BOOMERANG">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903101200 -0300" stop="20190903102900 -0300" channel="BOOMERANG">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903102900 -0300" stop="20190903103000 -0300" channel="BOOMERANG">
+    <title lang="pt">Ben 10</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903103000 -0300" stop="20190903104700 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903104700 -0300" stop="20190903110000 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903110000 -0300" stop="20190903111200 -0300" channel="BOOMERANG">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903111200 -0300" stop="20190903112900 -0300" channel="BOOMERANG">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903112900 -0300" stop="20190903113000 -0300" channel="BOOMERANG">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903113000 -0300" stop="20190903113800 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903113800 -0300" stop="20190903114500 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903114500 -0300" stop="20190903115200 -0300" channel="BOOMERANG">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903115200 -0300" stop="20190903115900 -0300" channel="BOOMERANG">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903115900 -0300" stop="20190903120000 -0300" channel="BOOMERANG">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903120000 -0300" stop="20190903120800 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903120800 -0300" stop="20190903122100 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903122100 -0300" stop="20190903122900 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903122900 -0300" stop="20190903123000 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903123000 -0300" stop="20190903124100 -0300" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903124100 -0300" stop="20190903125800 -0300" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903125800 -0300" stop="20190903130000 -0300" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903130000 -0300" stop="20190903132000 -0300" channel="BOOMERANG">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903132000 -0300" stop="20190903133000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903133000 -0300" stop="20190903134700 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903134700 -0300" stop="20190903140000 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903140000 -0300" stop="20190903140600 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903140600 -0300" stop="20190903141200 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903141200 -0300" stop="20190903142400 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903142400 -0300" stop="20190903143000 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903143000 -0300" stop="20190903143900 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903143900 -0300" stop="20190903144600 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903144600 -0300" stop="20190903145900 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903145900 -0300" stop="20190903150000 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903150000 -0300" stop="20190903150800 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903150800 -0300" stop="20190903151800 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903151800 -0300" stop="20190903153000 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903153000 -0300" stop="20190903153700 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903153700 -0300" stop="20190903155000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903155000 -0300" stop="20190903155700 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903155700 -0300" stop="20190903160000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903160000 -0300" stop="20190903162000 -0300" channel="BOOMERANG">
+    <title lang="pt">Barbie Dreamhouse Adventures</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903162000 -0300" stop="20190903163000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903163000 -0300" stop="20190903165800 -0300" channel="BOOMERANG">
+    <title lang="pt">Lego Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903165800 -0300" stop="20190903170000 -0300" channel="BOOMERANG">
+    <title lang="pt">Lego Friends</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903170000 -0300" stop="20190903171200 -0300" channel="BOOMERANG">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903171200 -0300" stop="20190903172900 -0300" channel="BOOMERANG">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903172900 -0300" stop="20190903173000 -0300" channel="BOOMERANG">
+    <title lang="pt">As Meninas Superpoderosas</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903173000 -0300" stop="20190903173700 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903173700 -0300" stop="20190903174000 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903174000 -0300" stop="20190903174500 -0300" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903174500 -0300" stop="20190903175100 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903175100 -0300" stop="20190903175700 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903175700 -0300" stop="20190903180000 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903180000 -0300" stop="20190903181500 -0300" channel="BOOMERANG">
+    <title lang="pt">Corrida Maluca</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903181500 -0300" stop="20190903182200 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903182200 -0300" stop="20190903183000 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903183000 -0300" stop="20190903190000 -0300" channel="BOOMERANG">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903190000 -0300" stop="20190903191400 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903191400 -0300" stop="20190903192500 -0300" channel="BOOMERANG">
+    <title lang="pt">O Show de Tom e Jerry</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903192500 -0300" stop="20190903193000 -0300" channel="BOOMERANG">
+    <title lang="pt">The Happos Family</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903193000 -0300" stop="20190903193700 -0300" channel="BOOMERANG">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903193700 -0300" stop="20190903194400 -0300" channel="BOOMERANG">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903194400 -0300" stop="20190903194500 -0300" channel="BOOMERANG">
+    <title lang="pt">Zuzubalândia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903194500 -0300" stop="20190903195200 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903195200 -0300" stop="20190903200000 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903200000 -0300" stop="20190903201700 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903201700 -0300" stop="20190903203000 -0300" channel="BOOMERANG">
+    <title lang="pt">Bunnicula, O Vampiro Coelho</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903203000 -0300" stop="20190903204200 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903204200 -0300" stop="20190903205900 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903205900 -0300" stop="20190903210000 -0300" channel="BOOMERANG">
+    <title lang="pt">Tá Chovendo Hambúrguer: A Série</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903210000 -0300" stop="20190903210900 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903210900 -0300" stop="20190903211700 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903211700 -0300" stop="20190903213000 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903213000 -0300" stop="20190903213100 -0300" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903213100 -0300" stop="20190903213800 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903213800 -0300" stop="20190903214100 -0300" channel="BOOMERANG">
+    <title lang="pt">Masha e o Urso</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903214100 -0300" stop="20190903215800 -0300" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903215800 -0300" stop="20190903220000 -0300" channel="BOOMERANG">
+    <title lang="pt">Mr. Bean</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903220000 -0300" stop="20190903222000 -0300" channel="BOOMERANG">
+    <title lang="pt">Que Legal, Scooby-Doo!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903222000 -0300" stop="20190903223000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Pantera Cor de Rosa</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903223000 -0300" stop="20190903223600 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903223600 -0300" stop="20190903224200 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903224200 -0300" stop="20190903225400 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903225400 -0300" stop="20190903230000 -0300" channel="BOOMERANG">
+    <title lang="pt">New Looney Tunes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903230000 -0300" stop="20190903230700 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903230700 -0300" stop="20190903232000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903232000 -0300" stop="20190903232700 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903232700 -0300" stop="20190903233000 -0300" channel="BOOMERANG">
+    <title lang="pt">A Turma da Mônica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903233000 -0300" stop="20190903233700 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903233700 -0300" stop="20190903234400 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903234400 -0300" stop="20190903235700 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903235700 -0300" stop="20190904000000 -0300" channel="BOOMERANG">
+    <title lang="pt">Grizzy e os Lemmings</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902003000 -0300" stop="20190902023000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Copa do Mundo de Basquete Masculino: Nova Zelândia x Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902023000 -0300" stop="20190902043000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Jogos Parapan-americanos Lima 2019: Cerimônia de Encerramento</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902043000 -0300" stop="20190902073000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Bate-Estaca x Weili Zhang</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902073000 -0300" stop="20190902114500 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Copa do Mundo de Ginástica Artística</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902114500 -0300" stop="20190902120000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Pré</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902120000 -0300" stop="20190902140000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902140000 -0300" stop="20190902160000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902160000 -0300" stop="20190902180000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902180000 -0300" stop="20190902200000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902200000 -0300" stop="20190902220000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190903000000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903000000 -0300" stop="20190903010000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Especial UFC</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903010000 -0300" stop="20190903020000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903020000 -0300" stop="20190903030000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903030000 -0300" stop="20190903040000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903040000 -0300" stop="20190903050000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903050000 -0300" stop="20190903060000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903060000 -0300" stop="20190903070000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Faixa Combate</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903070000 -0300" stop="20190903094500 -0300" channel="SporTV 3 HD">
+    <title lang="pt">UFC Fight Night Combate</title>
+    <sub-title lang="pt">Bate-Estaca x Weili Zhang</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903094500 -0300" stop="20190903104500 -0300" channel="SporTV 3 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903104500 -0300" stop="20190903114500 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903114500 -0300" stop="20190903120000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">Pré</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903120000 -0300" stop="20190903150000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903150000 -0300" stop="20190903180000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903180000 -0300" stop="20190903210000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903210000 -0300" stop="20190904000000 -0300" channel="SporTV 3 HD">
+    <title lang="pt">US Open</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902010000 -0300" stop="20190902033000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Troca de Passes</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902033000 -0300" stop="20190902034500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902034500 -0300" stop="20190902050000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Torneio Internacional de Futebol Feminino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902050000 -0300" stop="20190902053000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902053000 -0300" stop="20190902073000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Copa do Mundo de Basquete Masculino: Nigéria x Argentina</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902073000 -0300" stop="20190902092000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Copa do Mundo de Basquete Masculino: Nova Zelândia x Brasil</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902092000 -0300" stop="20190902093000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Pré Jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902093000 -0300" stop="20190902113000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Copa do Mundo de Basquete Masculino: Porto Rico x Espanha</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902113000 -0300" stop="20190902123000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902123000 -0300" stop="20190902134500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Copa do Mundo de Tiro Esportivo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902134500 -0300" stop="20190902144500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902144500 -0300" stop="20190902154500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Jogos Históricos da NBA: Cleveland Cavaliers x Detroit Pistons</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902154500 -0300" stop="20190902170000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Copa do Mundo de Tiro Esportivo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902170000 -0300" stop="20190902180000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902180000 -0300" stop="20190902190000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902190000 -0300" stop="20190902193000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Rally dos Sertões</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902193000 -0300" stop="20190902203000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902203000 -0300" stop="20190902213000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902213000 -0300" stop="20190902220000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190902230000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902230000 -0300" stop="20190903000000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903000000 -0300" stop="20190903010000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903010000 -0300" stop="20190903020000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903020000 -0300" stop="20190903043000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Bem, Amigos!</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903043000 -0300" stop="20190903053000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903053000 -0300" stop="20190903063000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903063000 -0300" stop="20190903073000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Faixa Olímpica</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903073000 -0300" stop="20190903083000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903083000 -0300" stop="20190903090000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903090000 -0300" stop="20190903110000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Copa do Mundo de Basquete Masculino: Brasil x Grécia</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903110000 -0300" stop="20190903120000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903120000 -0300" stop="20190903130000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">SporTV News</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903130000 -0300" stop="20190903140000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903140000 -0300" stop="20190903160000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Copa do Mundo de Basquete Masculino: Brasil x Grécia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903160000 -0300" stop="20190903170000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Torneio Internacional de Futebol Feminino</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903170000 -0300" stop="20190903180000 -0300" channel="SporTV 2 HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903180000 -0300" stop="20190903185500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903185500 -0300" stop="20190903191500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Pré-jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903191500 -0300" stop="20190903211500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Brasil de Pelotas x Londrina</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903211500 -0300" stop="20190903221500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Jogos Históricos da NBA</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903221500 -0300" stop="20190904001500 -0300" channel="SporTV 2 HD">
+    <title lang="pt">Copa do Mundo de Basquete Masculino: Brasil x Grécia</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902003000 -0300" stop="20190902013000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902013000 -0300" stop="20190902023000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902023000 -0300" stop="20190902033000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902033000 -0300" stop="20190902045000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902045000 -0300" stop="20190902055000 -0300" channel="SporTV HD">
+    <title lang="pt">Boleiragem</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902055000 -0300" stop="20190902065000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902065000 -0300" stop="20190902075000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902075000 -0300" stop="20190902084500 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902084500 -0300" stop="20190902094500 -0300" channel="SporTV HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902094500 -0300" stop="20190902120000 -0300" channel="SporTV HD">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902120000 -0300" stop="20190902124500 -0300" channel="SporTV HD">
+    <title lang="pt">Acabou a Brincadeira</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902124500 -0300" stop="20190902160000 -0300" channel="SporTV HD">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902160000 -0300" stop="20190902162000 -0300" channel="SporTV HD">
+    <title lang="pt">Globo Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902162000 -0300" stop="20190902170000 -0300" channel="SporTV HD">
+    <title lang="pt">Fala Muito!!</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902170000 -0300" stop="20190902183000 -0300" channel="SporTV HD">
+    <title lang="pt">Tá na Área</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902183000 -0300" stop="20190902200000 -0300" channel="SporTV HD">
+    <title lang="pt">Pré-jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902200000 -0300" stop="20190902220000 -0300" channel="SporTV HD">
+    <title lang="pt">Fluminense x Avaí</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190902220000 -0300" stop="20190903003000 -0300" channel="SporTV HD">
+    <title lang="pt">Bem, Amigos!</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903003000 -0300" stop="20190903004500 -0300" channel="SporTV HD">
+    <title lang="pt">Baú do Esporte</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903004500 -0300" stop="20190903014500 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903014500 -0300" stop="20190903024500 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Avaí</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903024500 -0300" stop="20190903040000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903040000 -0300" stop="20190903050000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Corinthians x Atlético MG</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903050000 -0300" stop="20190903060000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Cruzeiro x Vasco</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903060000 -0300" stop="20190903070000 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">Fluminense x Avaí</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903070000 -0300" stop="20190903075000 -0300" channel="SporTV HD">
+    <title lang="pt">Giro da Rodada</title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903075000 -0300" stop="20190903084500 -0300" channel="SporTV HD">
+    <title lang="pt">VT</title>
+    <sub-title lang="pt">São Paulo x Grêmio</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903084500 -0300" stop="20190903094500 -0300" channel="SporTV HD">
+    <title lang="pt">SporTV News</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903094500 -0300" stop="20190903120000 -0300" channel="SporTV HD">
+    <title lang="pt">Redação SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903120000 -0300" stop="20190903124500 -0300" channel="SporTV HD">
+    <title lang="pt">Acabou a Brincadeira</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903124500 -0300" stop="20190903160000 -0300" channel="SporTV HD">
+    <title lang="pt">Seleção SporTV</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903160000 -0300" stop="20190903163000 -0300" channel="SporTV HD">
+    <title lang="pt">Pré-jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903163000 -0300" stop="20190903183000 -0300" channel="SporTV HD">
+    <title lang="pt">Campeonato Brasileiro De Futebol Sub-20: Santos x Corinthians</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903183000 -0300" stop="20190903191500 -0300" channel="SporTV HD">
+    <title lang="pt">Pré-jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903191500 -0300" stop="20190903211500 -0300" channel="SporTV HD">
+    <title lang="pt">Vila Nova x Vitória</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903211500 -0300" stop="20190903213000 -0300" channel="SporTV HD">
+    <title lang="pt">Pré-jogo</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903213000 -0300" stop="20190903233000 -0300" channel="SporTV HD">
+    <title lang="pt">Criciúma x Ponte Preta</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
+    <star-rating>
+      <value>1.0</value>
+    </star-rating>
+  </programme>
+  <programme start="20190903233000 -0300" stop="20190904010000 -0300" channel="SporTV HD">
+    <title lang="pt">Troca de Passes</title>
+    <sub-title lang="pt">Ao Vivo</sub-title>
     <star-rating>
       <value>1.0</value>
     </star-rating>
